@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="mf_title" text="Piyasalar ve Vadeli İşlemler"/>
+        <text name="mf_tab_market" text="Piyasa"/>
+        <text name="mf_tab_contracts" text="Sözleşmelerim"/>
+        <text name="mf_col_item" text="Ürün"/>
+        <text name="mf_col_price" text="Fiyat / 1.000 L"/>
+        <text name="mf_col_change" text="Ort. farkı"/>
+        <text name="mf_col_avg" text="Ort."/>
+        <text name="mf_surplus" text="Fazla arz"/>
+        <text name="mf_demand" text="Talep"/>
+        <text name="mf_base" text="Medyan fiyat"/>
+        <text name="mf_vs_median" text="Medyana göre"/>
+        <text name="mf_best_vs_median" text="En iyi istasyon, medyana göre"/>
+        <text name="mf_current" text="Piyasa fiyatı"/>
+        <text name="mf_today" text="Dünden beri değişim"/>
+        <text name="mf_events" text="Piyasa olayları"/>
+        <text name="mf_none" text="Yok"/>
+        <text name="mf_new_contract" text="Yeni sözleşme"/>
+        <text name="mf_amount" text="Miktar"/>
+        <text name="mf_duration" text="Süre"/>
+        <text name="mf_days" text="gün"/>
+        <text name="mf_months" text="ay"/>
+        <text name="mf_month" text="ay"/>
+        <text name="mf_set_maxmonths" text="Maks. sözleşme süresi"/>
+        <text name="mf_locked" text="Sabit fiyat / 1.000 L"/>
+        <text name="mf_stn_now" text="Sözleşme istasyonunun güncel fiyatı"/>
+        <text name="mf_locked_vs_avg" text="Sabit fiyat / medyan"/>
+        <text name="mf_discount" text="Sözleşme ücreti"/>
+        <text name="mf_total" text="Maks. sözleşme değeri"/>
+        <text name="mf_help_market" text="[Tık] Seç / düğmeler   [Tekerlek] Kaydır   [Yukarı/Aşağı] Ürün   [Sol/Sağ] Miktar   [Q/E] Ay   [S] Sırala   [Enter] İmzala   [Tab] Sonraki sekme   [Esc] Kapat"/>
+        <text name="mf_help_contracts" text="[Tık] Seç / İptal et   [Yukarı/Aşağı] Seç   [Delete] Sözleşmeyi iptal et   [Tab] Sonraki sekme   [Esc] Kapat"/>
+        <text name="mf_no_contracts" text="Aktif sözleşmeniz yok."/>
+        <text name="mf_remaining" text="Kalan"/>
+        <text name="mf_months_left" text="Kalan ay"/>
+        <text name="mf_days_left" text="Kalan gün"/>
+        <text name="mf_vs_market" text="piyasaya göre"/>
+        <text name="mf_note_surplus" text="Piyasada fazla arz: %s fiyatları düşüyor!"/>
+        <text name="mf_note_demand" text="Yüksek talep: %s fiyatları yükseliyor!"/>
+        <text name="mf_msg_signed" text="Sözleşme imzalandı."/>
+        <text name="mf_msg_sent" text="Sözleşme isteği sunucuya gönderildi."/>
+        <text name="mf_msg_failed" text="Sözleşme oluşturulamadı (sınıra ulaşıldı veya geçersiz)."/>
+        <text name="mf_msg_cancelled" text="Sözleşme iptal edildi."/>
+        <text name="mf_sort" text="Sıralama:"/>
+        <text name="mf_sort_name_asc" text="Ad A-Z"/>
+        <text name="mf_sort_name_desc" text="Ad Z-A"/>
+        <text name="mf_sort_high" text="Ort. farkı en yüksek"/>
+        <text name="mf_sort_low" text="Ort. farkı en düşük"/>
+        <text name="mf_sign_btn" text="Sözleşmeyi imzala"/>
+        <text name="mf_cancel_btn" text="İptal"/>
+        <text name="mf_help_events" text="[Tık] Piyasadaki ürüne git   [Tekerlek / Yukarı/Aşağı] Kaydır   [Tab] Sonraki sekme   [Esc] Kapat"/>
+        <text name="mf_tab_events" text="Tüm olaylar"/>
+        <text name="mf_filter_all" text="Tümü"/>
+        <text name="mf_filter_surplus" text="Fazla arz"/>
+        <text name="mf_filter_demand" text="Talep"/>
+        <text name="mf_hd_price1" text="Fiyat"/>
+        <text name="mf_hd_price2" text="Medyan"/>
+        <text name="mf_hd_vs1" text="Medyana"/>
+        <text name="mf_hd_vs2" text="göre"/>
+        <text name="mf_hd_stn1" text="İstasyon"/>
+        <text name="mf_hd_stn2" text="Ortalama"/>
+        <text name="mf_hd_best1" text="En iyi"/>
+        <text name="mf_hd_best2" text="istasyon"/>
+        <text name="mf_hd_bvm1" text="En iyi istasyon"/>
+        <text name="mf_hd_bvm2" text="Medyana göre"/>
+        <text name="mf_hd_cvb1" text="Sözleşme vs."/>
+        <text name="mf_hd_cvb2" text="En iyi ist."/>
+        <text name="mf_col_market" text="Piyasa"/>
+        <text name="mf_col_stnavg" text="Ist. ort."/>
+        <text name="mf_col_best" text="En iyi ist."/>
+        <text name="mf_col_station" text="İstasyon"/>
+        <text name="mf_col_type" text="Tür"/>
+        <text name="mf_col_effect" text="Fiyat etkisi"/>
+        <text name="mf_stn_avg" text="İstasyon ortalaması (%d)"/>
+        <text name="mf_stn_best" text="En iyi istasyon fiyatı"/>
+        <text name="mf_contract_station" text="Sözleşme istasyonu"/>
+        <text name="mf_no_station" text="Uygun yok"/>
+        <text name="mf_events_count" text="%d aktif olay"/>
+        <text name="mf_no_events" text="Aktif piyasa olayı yok."/>
+        <text name="mf_msg_nostation" text="Bu ürün için uygun satış istasyonu yok."/>
+        <text name="mf_cat_all" text="Tüm ürünler"/>
+        <text name="mf_cat_grain" text="Tahıllar"/>
+        <text name="mf_cat_veg" text="Sebzeler"/>
+        <text name="mf_cat_root" text="Kök bitkiler"/>
+        <text name="mf_cat_special" text="Özel ürünler"/>
+        <text name="mf_cat_orchard" text="Bağlar ve meyve bahçeleri"/>
+        <text name="mf_cat_grass" text="Diğer / Çayır"/>
+        <text name="mf_cat_other" text="Aşağıda listelenmeyen diğer ürünler"/>
+        <text name="mf_no_items" text="Bu kategoride ürün yok."/>
+        <text name="mf_graph_title" text="Fiyat geçmişi (yıl)"/>
+        <text name="mf_graph_legend" text="parlak = bu yıl   soluk = geçen yıl"/>
+        <text name="mf_graph_now" text="Şimdi"/>
+        <text name="mf_cat_stored" text="Depodaki ürünler"/>
+        <text name="mf_stored" text="Depoda"/>
+        <text name="input_MF_TOGGLE_MENU" text="Piyasalar ve Vadeli İşlemler: menüyü aç / kapat"/>
+        <text name="input_MF_UP" text="Piyasalar ve Vadeli İşlemler menüsü: Yukarı"/>
+        <text name="input_MF_DOWN" text="Piyasalar ve Vadeli İşlemler menüsü: Aşağı"/>
+        <text name="input_MF_LEFT" text="Piyasalar ve Vadeli İşlemler menüsü: Miktarı azalt"/>
+        <text name="input_MF_RIGHT" text="Piyasalar ve Vadeli İşlemler menüsü: Miktarı artır"/>
+        <text name="input_MF_DAYS_DOWN" text="Piyasalar ve Vadeli İşlemler menüsü: Daha az sözleşme ayı"/>
+        <text name="input_MF_DAYS_UP" text="Piyasalar ve Vadeli İşlemler menüsü: Daha fazla sözleşme ayı"/>
+        <text name="input_MF_PAGE_UP" text="Piyasalar ve Vadeli İşlemler menüsü: Sayfa yukarı"/>
+        <text name="input_MF_PAGE_DOWN" text="Piyasalar ve Vadeli İşlemler menüsü: Sayfa aşağı"/>
+        <text name="input_MF_FAST" text="Piyasalar ve Vadeli İşlemler menüsü: x10 adımlar için basılı tut"/>
+        <text name="input_MF_SORT" text="Piyasalar ve Vadeli İşlemler menüsü: Sıralamayı değiştir"/>
+        <text name="input_MF_CONFIRM" text="Piyasalar ve Vadeli İşlemler menüsü: Sözleşmeyi imzala"/>
+        <text name="input_MF_NEXT_TAB" text="Piyasalar ve Vadeli İşlemler menüsü: Sonraki sekme"/>
+        <text name="input_MF_CANCEL" text="Piyasalar ve Vadeli İşlemler menüsü: Seçili sözleşmeyi iptal et"/>
+        <text name="input_MF_CLOSE" text="Piyasalar ve Vadeli İşlemler menüsü: Kapat"/>
+        <text name="mf_action_open" text="Piyasalar ve Vadeli İşlemler"/>
+        <text name="mf_h_mouse" text="Fare: tık / tekerlek"/>
+        <text name="mf_h_item" text="Ürün"/>
+        <text name="mf_h_select" text="Seç"/>
+        <text name="mf_h_scroll" text="Kaydır"/>
+        <text name="mf_h_amount" text="Miktar"/>
+        <text name="mf_h_days" text="Ay"/>
+        <text name="mf_h_fast" text="x10"/>
+        <text name="mf_h_sort" text="Sırala"/>
+        <text name="mf_h_sign" text="İmzala"/>
+        <text name="mf_h_tab" text="Sonraki sekme"/>
+        <text name="mf_h_close" text="Kapat"/>
+        <text name="mf_h_cancel" text="Sözleşmeyi iptal et"/>
+        <text name="mf_offer" text="Ürün sözleşme oranı"/>
+        <text name="mf_col_contract" text="Sözleşme"/>
+        <text name="mf_cooldown_btn" text="Kullanılamaz (%s)"/>
+        <text name="mf_msg_cooldown" text="Bu ürün için az önce bir sözleşme imzalandı. %s sonra tekrar uygun olacak."/>
+        <text name="mf_col_fee" text="İptal ücreti"/>
+        <text name="mf_penalty_info" text="Cezalar: iptalde teslim edilmeyen değerin %%%d'i; süre dolunca teslim edilmeyen değerin %%%d'i."/>
+        <text name="mf_confirm_btn" text="Onayla?"/>
+        <text name="mf_msg_confirm_cancel" text="İptal %s tutarında. Onaylamak için İptal'e tekrar tıkla."/>
+        <text name="mf_note_pen_cancel" text="%s sözleşmesi iptal edildi. Ceza: %s"/>
+        <text name="mf_note_pen_expired" text="%s sözleşmesi yerine getirilmeden doldu. Ceza: %s"/>
+        <text name="input_MF_FREE_CANCEL" text="Piyasalar ve Vadeli İşlemler menüsü: Ücretsiz iptali kullan"/>
+        <text name="mf_h_free" text="Ücretsiz iptal"/>
+        <text name="mf_free_btn" text="Ücretsiz iptal"/>
+        <text name="mf_free_ready" text="Ücretsiz iptal hazır: istediğin sözleşmeyi cezasız iptal et (veya sakla)"/>
+        <text name="mf_free_progress" text="Ücretsiz iptal ilerlemesi: %s / %s teslim edildi"/>
+        <text name="mf_msg_free_confirm" text="Ücretsiz iptalini bu sözleşmede kullanmak istiyor musun? Onaylamak için tekrar tıkla."/>
+        <text name="mf_msg_free_used" text="Ücretsiz iptal kullanıldı. Ceza yok."/>
+        <text name="mf_msg_no_free" text="Kullanılabilir ücretsiz iptalin yok."/>
+        <text name="mf_note_progress" text="Sözleşme %s: %%%d teslim edildi (%s / %s L)"/>
+        <text name="mf_note_complete" text="Sözleşme %s tamamlandı! Tüm %s L teslim edildi."/>
+        <text name="mf_note_free_earned" text="Ücretsiz iptal kazandın! Sözleşmelerim'de kullan."/>
+        <text name="mf_note_free_used" text="%s sözleşmen için ücretsiz iptal kullanıldı. Ceza yok."/>
+        <text name="mf_tab_history" text="Geçmiş"/>
+        <text name="mf_tab_alerts" text="Uyarılar"/>
+        <text name="mf_tab_block" text="İstasyon engelle"/>
+        <text name="mf_block_info" text="Engellenen istasyonlar fiyatlarda, ortalamalarda ve yeni sözleşmelerde yok sayılır. Mevcut sözleşmeler değişmez."/>
+        <text name="mf_block_station" text="İstasyon"/>
+        <text name="mf_block_accepts" text="Kabul eder"/>
+        <text name="mf_block_items" text="%d ürün"/>
+        <text name="mf_block_auto" text="Çiftliğimin teslimat yapamadığı istasyonları atla (otomatik)"/>
+        <text name="mf_block_noaccess" text="Erişim yok"/>
+        <text name="mf_list_stations" text="İstasyonları listele"/>
+        <text name="mf_popup_title" text="İstasyonlar"/>
+        <text name="mf_distance" text="Mesafe"/>
+        <text name="mf_tag_contract" text="Sözleşme"/>
+        <text name="mf_popup_none" text="Hiçbir istasyon bu ürünü kabul etmiyor."/>
+        <text name="mf_block_blocked" text="Engelli"/>
+        <text name="mf_block_none" text="Satış istasyonu bulunamadı."/>
+        <text name="mf_tab_settings" text="Ayarlar"/>
+        <text name="mf_hud_btn_on" text="HUD: Açık"/>
+        <text name="mf_hud_btn_off" text="HUD: Kapalı"/>
+        <text name="mf_hud_btn_move" text="HUD'u taşı"/>
+        <text name="mf_theme_1" text="Orman"/>
+        <text name="mf_theme_2" text="Gece mavisi"/>
+        <text name="mf_theme_3" text="Hasat altını"/>
+        <text name="mf_theme_4" text="Ambar kırmızısı"/>
+        <text name="mf_theme_5" text="Arduvaz"/>
+        <text name="mf_theme_6" text="Kömür ve turuncu"/>
+        <text name="mf_theme_7" text="Gün batımı"/>
+        <text name="mf_theme_8" text="Lavanta"/>
+        <text name="mf_theme_9" text="Petrol mavisi"/>
+        <text name="mf_theme_10" text="Çöl kumu"/>
+        <text name="mf_theme_11" text="Arktik"/>
+        <text name="mf_theme_12" text="Yüksek kontrast"/>
+        <text name="mf_theme_13" text="Oyun varsayılanı"/>
+        <text name="mf_badge_sur" text="FAZ"/>
+        <text name="mf_badge_dem" text="TAL"/>
+        <text name="mf_theme_same" text="Menüyle aynı"/>
+        <text name="mf_theme_auto" text="Otomatik"/>
+        <text name="mf_set_style" text="Görünüm"/>
+        <text name="mf_set_menu_style" text="Menü stili"/>
+        <text name="mf_set_hud_style" text="HUD stili"/>
+        <text name="mf_set_accent" text="Vurgu rengi"/>
+        <text name="mf_set_bright" text="Parlaklık"/>
+        <text name="mf_set_style_reset" text="Görünümü sıfırla"/>
+        <text name="mf_cat_label" text="Kategori"/>
+        <text name="mf_cat_new" text="Yeni"/>
+        <text name="mf_cat_type_hint" text="Bir ad yazın, Enter = Tamam, Esc = iptal"/>
+        <text name="mf_cat_ok" text="Tamam"/>
+        <text name="mf_cat_cancel" text="İptal"/>
+        <text name="mf_cat_pick_name" text="Bir ad seçin"/>
+        <text name="mf_cat_p1" text="Favoriler"/>
+        <text name="mf_cat_p2" text="Önce sat"/>
+        <text name="mf_cat_p3" text="Beklet"/>
+        <text name="mf_cat_p4" text="Sözleşmeler"/>
+        <text name="mf_cat_p5" text="Yem"/>
+        <text name="mf_cat_p6" text="Dökme"/>
+        <text name="mf_cat_p7" text="Nakit ürünler"/>
+        <text name="mf_cat_p8" text="Benimkiler"/>
+        <text name="mf_cat_edit" text="Düzenle"/>
+        <text name="mf_cat_reset_item" text="Sıfırla"/>
+        <text name="mf_cat_rename" text="Yeniden adlandır"/>
+        <text name="mf_cat_prompt" text="Kategori adı"/>
+        <text name="mf_cat_default_name" text="Özel %d"/>
+        <text name="mf_cat_max" text="En fazla 3 kendi kategorinizi oluşturabilirsiniz"/>
+        <text name="mf_cat_reset" text="Kategorileri sıfırla"/>
+        <text name="mf_cat_reset_confirm" text="Kendi kategorilerinizi ve taşınan öğeleri silmek için tekrar tıklayın"/>
+        <text name="mf_msg_cat_reset" text="Kategoriler sıfırlandı"/>
+        <text name="mf_hud_move_hint" text="Taşımak için sürükle, boyutlandırmak için köşeyi sürükle. Esc = menüye dön."/>
+        <text name="mf_hud_move_back" text="Menü %d sn sonra geri gelir"/>
+        <text name="mf_al_trigger" text="Tetikleme fiyatı"/>
+        <text name="mf_al_triggers_at" text="Tetiklenme noktası"/>
+        <text name="mf_col_hud" text="HUD"/>
+        <text name="mf_linked_suffix" text=" (bağlantılı)"/>
+        <text name="mf_hud_empty" text="HUD sütunundan ürünleri işaretle"/>
+        <text name="mf_hud_avg" text="Medyan"/>
+        <text name="mf_hud_best" text="En iyi fiyat"/>
+        <text name="mf_hud_contract" text="Sözleşme oranı"/>
+        <text name="mf_hud_unit" text="1.000 L başına"/>
+        <text name="mf_alert_up" text="Fiyat uyarısı: %s için en iyi fiyat medyana göre %+.1f%% seviyesine yükseldi (%s)"/>
+        <text name="mf_alert_down" text="Fiyat uyarısı: %s için en iyi fiyat medyana göre %+.1f%% seviyesine düştü (%s)"/>
+        <text name="mf_col_result" text="Sonuç"/>
+        <text name="mf_col_delivered" text="Teslim edilen"/>
+        <text name="mf_col_penalty" text="Ceza"/>
+        <text name="mf_col_gain" text="Piyasaya göre"/>
+        <text name="mf_col_net" text="Net"/>
+        <text name="mf_col_day" text="Gün"/>
+        <text name="mf_no_history" text="Henüz biten sözleşme yok."/>
+        <text name="mf_res_fulfilled" text="Tamamlandı"/>
+        <text name="mf_res_cancelled" text="İptal edildi"/>
+        <text name="mf_res_expired" text="Süresi doldu"/>
+        <text name="mf_res_free" text="Ücretsiz iptal"/>
+        <text name="mf_hist_totals" text="Son %d sözleşme: piyasaya göre %s   cezalar %s   net %s"/>
+        <text name="mf_al_item" text="Ürün"/>
+        <text name="mf_al_now" text="Güncel en iyi fiyat"/>
+        <text name="mf_al_when" text="Fiyat şu olunca bildir"/>
+        <text name="mf_al_rises" text="Şuna yükselince"/>
+        <text name="mf_al_falls" text="Şuna düşünce"/>
+        <text name="mf_al_threshold" text="Eşik (medyana göre)"/>
+        <text name="mf_al_add" text="Uyarı ekle"/>
+        <text name="mf_al_cond" text="Koşul"/>
+        <text name="mf_al_status" text="Durum"/>
+        <text name="mf_al_none" text="Henüz uyarı yok."/>
+        <text name="mf_al_status_trig" text="Tetiklendi"/>
+        <text name="mf_al_status_wait" text="Bekliyor"/>
+        <text name="mf_al_delete" text="Sil"/>
+        <text name="mf_al_clear" text="Temizle"/>
+        <text name="mf_hud_alert_title" text="FİYAT UYARISI"/>
+        <text name="mf_hud_alert_more" text="+%d daha"/>
+        <text name="mf_set_alert_sound" text="Uyarı sesi"/>
+        <text name="mf_al_cond_up" text="%s seviyesine yükselirse"/>
+        <text name="mf_al_cond_down" text="%s seviyesine düşerse"/>
+        <text name="mf_msg_alert_limit" text="Uyarı sınırına ulaşıldı. Önce birini sil."/>
+        <text name="mf_msg_alert_added" text="Uyarı açıldı."/>
+        <text name="mf_msg_alert_added_met" text="Uyarı eklendi. Fiyat eşiği zaten geçti, bu yüzden bir sonraki geçişte tetiklenir."/>
+        <text name="mf_set_market" text="Piyasa ayarları"/>
+        <text name="mf_set_hostonly" text="Piyasa ayarlarını yalnızca ev sahibi değiştirebilir."/>
+        <text name="mf_set_preset" text="Zorluk ön ayarı"/>
+        <text name="mf_preset_0" text="Özel"/>
+        <text name="mf_preset_1" text="Sakin"/>
+        <text name="mf_preset_2" text="Normal"/>
+        <text name="mf_preset_3" text="Dalgalı"/>
+        <text name="mf_set_chance" text="Aylık olay şansı"/>
+        <text name="mf_set_strength" text="Olay şiddeti"/>
+        <text name="mf_set_drift" text="Günlük fiyat kayması"/>
+        <text name="mf_set_links" text="Bağlantılı piyasalar"/>
+        <text name="mf_on" text="Açık"/>
+        <text name="mf_off" text="Kapalı"/>
+        <text name="mf_set_link_strength" text="Bağlantı gücü"/>
+        <text name="mf_set_cancel" text="İptal cezası"/>
+        <text name="mf_set_expiry" text="Süre dolum cezası"/>
+        <text name="mf_set_wait" text="Sözleşmeler arası bekleme"/>
+        <text name="mf_set_free" text="Ücretsiz iptal eşiği"/>
+        <text name="mf_set_hud" text="Senin HUD'un (yalnızca bu oyuncu)"/>
+        <text name="mf_tab_hud_show" text="HUD'u göster"/>
+        <text name="mf_set_hud_rotate" text="Ürün başına saniye"/>
+        <text name="mf_set_hud_opacity" text="HUD opaklığı"/>
+        <text name="mf_set_hud_reset" text="HUD konumunu sıfırla"/>
+        <text name="mf_msg_hud_reset" text="HUD konumu sıfırlandı."/>
+        <text name="mf_set_hud_help1" text="Piyasa sekmesindeki HUD sütunundan ürünleri işaretle."/>
+        <text name="mf_set_hud_help2" text="Menü başlığındaki HUD'u taşı düğmesine bas: HUD'u taşımak için sürükle, boyutunu (%) değiştirmek için köşesini sürükle."/>
+        <text name="mf_col_alert" text="Uyarı"/>
+        <text name="mf_msg_alert_removed" text="Uyarı kaldırıldı."/>
+        <text name="mf_msg_alert_added_edit" text="Uyarı açıldı. Koşulunu aşağıdan ayarla."/>
+        <text name="mf_al_active" text="Uyarı etkin"/>
+        <text name="mf_al_hint_on" text="Fiyat eşiği geçince seni bilgilendirir. Kaldırmak için işareti kaldır."/>
+        <text name="mf_al_hint_off" text="Bu ürün için uyarı açmak üzere işaretle."/>
+        <text name="mf_set_hud_size" text="HUD boyutu"/>
+        <text name="mf_base_note" text="oyun fiyatı %s x zorluk %.2f"/>
+        <text name="mf_base_note_nodiff" text="zorluk çarpanı bulunamadı (x1,00)"/>
+        <text name="mf_set_fee_amount" text="Sözleşme ücreti: miktar oranı"/>
+        <text name="mf_set_fee_duration" text="Sözleşme ücreti: süre oranı"/>
+        <text name="mf_set_defaults" text="Varsayılanlara dön"/>
+        <text name="mf_msg_reset_confirm" text="TÜM piyasa ayarları varsayılana döndürülsün mü? Onaylamak için tekrar tıkla."/>
+        <text name="mf_msg_reset_done" text="Piyasa ayarları varsayılana döndürüldü."/>
+        <text name="mf_cat_stored_all" text="Depodaki ürünler - Tam liste"/>
+        <text name="mf_stored_hide_hint" text="Bir ürünü «Depodaki ürünler» listesinden gizlemek için çöp kutusu sütununu işaretle."/>
+    </texts>
+</l10n>
