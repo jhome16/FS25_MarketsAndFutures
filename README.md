@@ -1,5 +1,6 @@
 # FS25_MarketsAndFutures
 FS25_MarketsAndFutures
+
 Takes control of every sell price in the game and lets you lock in prices with contracts.
 
 - Prices drift hour by hour and react to random SURPLUS (price drop) and DEMAND (price spike) events for each crop and product. Related crops move together.
@@ -14,3 +15,5 @@ Takes control of every sell price in the game and lets you lock in prices with c
 - Move items between categories and make up to 3 categories of your own, saved per player and per savegame.
 
 Open the menu with LEFT CTRL + M (all keys can be changed in Settings > Controls; look for the "Markets and Futures" entries).
+
+Detailed mod information can be found in the mod file (Markets and Futures - Mod Description) and at https://github.com/jhome16/FS25_MarketsAndFutures/tree/main
