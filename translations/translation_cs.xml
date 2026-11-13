@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="mf_title" text="Trhy a Futures"/>
+        <text name="mf_tab_market" text="Trh"/>
+        <text name="mf_tab_contracts" text="Moje smlouvy"/>
+        <text name="mf_col_item" text="Položka"/>
+        <text name="mf_col_price" text="Cena / 1 000 L"/>
+        <text name="mf_col_change" text="vs prům."/>
+        <text name="mf_col_avg" text="Prům."/>
+        <text name="mf_surplus" text="Přebytek"/>
+        <text name="mf_demand" text="Poptávka"/>
+        <text name="mf_base" text="Medián ceny"/>
+        <text name="mf_vs_median" text="vs. medián"/>
+        <text name="mf_best_vs_median" text="Nejlepší stanice vs. medián"/>
+        <text name="mf_current" text="Tržní cena"/>
+        <text name="mf_today" text="Změna od včerejška"/>
+        <text name="mf_events" text="Tržní události"/>
+        <text name="mf_none" text="Žádné"/>
+        <text name="mf_new_contract" text="Nová smlouva"/>
+        <text name="mf_amount" text="Množství"/>
+        <text name="mf_duration" text="Doba trvání"/>
+        <text name="mf_days" text="dní"/>
+        <text name="mf_months" text="měs."/>
+        <text name="mf_month" text="měs."/>
+        <text name="mf_set_maxmonths" text="Maximální délka smlouvy"/>
+        <text name="mf_locked" text="Zamčená cena / 1 000 L"/>
+        <text name="mf_stn_now" text="Aktuální cena stanice smlouvy"/>
+        <text name="mf_locked_vs_avg" text="Zafixovaná cena vs medián"/>
+        <text name="mf_discount" text="Poplatek za smlouvu"/>
+        <text name="mf_total" text="Max. hodnota smlouvy"/>
+        <text name="mf_help_market" text="[Klik] Vybrat / tlačítka   [Kolečko] Posun   [Nahoru/Dolů] Položka   [Vlevo/Vpravo] Množství   [Q/E] Měsíce   [S] Řadit   [Enter] Podepsat   [Tab] Další karta   [Esc] Zavřít"/>
+        <text name="mf_help_contracts" text="[Klik] Vybrat / Zrušit   [Nahoru/Dolů] Vybrat   [Delete] Zrušit smlouvu   [Tab] Další karta   [Esc] Zavřít"/>
+        <text name="mf_no_contracts" text="Nemáš žádné aktivní smlouvy."/>
+        <text name="mf_remaining" text="Zbývá"/>
+        <text name="mf_months_left" text="Zbývá měsíců"/>
+        <text name="mf_days_left" text="Zbývá dní"/>
+        <text name="mf_vs_market" text="vs trh"/>
+        <text name="mf_note_surplus" text="Tržní přebytek: ceny položky %s klesají!"/>
+        <text name="mf_note_demand" text="Vysoká poptávka: ceny položky %s rostou!"/>
+        <text name="mf_msg_signed" text="Smlouva podepsána."/>
+        <text name="mf_msg_sent" text="Žádost o smlouvu odeslána na server."/>
+        <text name="mf_msg_failed" text="Smlouvu nelze vytvořit (dosažen limit nebo neplatné)."/>
+        <text name="mf_msg_cancelled" text="Smlouva zrušena."/>
+        <text name="mf_sort" text="Řazení:"/>
+        <text name="mf_sort_name_asc" text="Název A-Z"/>
+        <text name="mf_sort_name_desc" text="Název Z-A"/>
+        <text name="mf_sort_high" text="Nejvyšší vs prům."/>
+        <text name="mf_sort_low" text="Nejnižší vs prům."/>
+        <text name="mf_sign_btn" text="Podepsat smlouvu"/>
+        <text name="mf_cancel_btn" text="Zrušit"/>
+        <text name="mf_help_events" text="[Klik] Přejít na položku v Trhu   [Kolečko / Nahoru/Dolů] Posun   [Tab] Další karta   [Esc] Zavřít"/>
+        <text name="mf_tab_events" text="Všechny události"/>
+        <text name="mf_filter_all" text="Vše"/>
+        <text name="mf_filter_surplus" text="Přebytek"/>
+        <text name="mf_filter_demand" text="Poptávka"/>
+        <text name="mf_hd_price1" text="Cena"/>
+        <text name="mf_hd_price2" text="Medián"/>
+        <text name="mf_hd_vs1" text="vs."/>
+        <text name="mf_hd_vs2" text="Medián"/>
+        <text name="mf_hd_stn1" text="Stanice"/>
+        <text name="mf_hd_stn2" text="Průměr"/>
+        <text name="mf_hd_best1" text="Nejlepší"/>
+        <text name="mf_hd_best2" text="stanice"/>
+        <text name="mf_hd_bvm1" text="Nejlepší stanice"/>
+        <text name="mf_hd_bvm2" text="vs. medián"/>
+        <text name="mf_hd_cvb1" text="Smlouva vs."/>
+        <text name="mf_hd_cvb2" text="Nejlepší stanice"/>
+        <text name="mf_col_market" text="Trh"/>
+        <text name="mf_col_stnavg" text="Prům. stan."/>
+        <text name="mf_col_best" text="Nejl. stan."/>
+        <text name="mf_col_station" text="Stanice"/>
+        <text name="mf_col_type" text="Typ"/>
+        <text name="mf_col_effect" text="Vliv na cenu"/>
+        <text name="mf_stn_avg" text="Průměr stanic (%d)"/>
+        <text name="mf_stn_best" text="Nejlepší cena stanice"/>
+        <text name="mf_contract_station" text="Stanice smlouvy"/>
+        <text name="mf_no_station" text="Žádná dostupná"/>
+        <text name="mf_events_count" text="Aktivní události: %d"/>
+        <text name="mf_no_events" text="Žádné aktivní tržní události."/>
+        <text name="mf_msg_nostation" text="Pro tuto položku není dostupná žádná výkupní stanice."/>
+        <text name="mf_cat_all" text="Všechny položky"/>
+        <text name="mf_cat_grain" text="Obilniny"/>
+        <text name="mf_cat_veg" text="Zelenina"/>
+        <text name="mf_cat_root" text="Kořenové plodiny"/>
+        <text name="mf_cat_special" text="Speciální plodiny"/>
+        <text name="mf_cat_orchard" text="Vinice a sady"/>
+        <text name="mf_cat_grass" text="Ostatní / Travní porosty"/>
+        <text name="mf_cat_other" text="Ostatní položky neuvedené níže"/>
+        <text name="mf_no_items" text="V této kategorii nejsou žádné položky."/>
+        <text name="mf_graph_title" text="Vývoj cen (rok)"/>
+        <text name="mf_graph_legend" text="světlé = letos   tmavé = loni"/>
+        <text name="mf_graph_now" text="Nyní"/>
+        <text name="mf_cat_stored" text="Uskladněné položky"/>
+        <text name="mf_stored" text="Ve skladu"/>
+        <text name="input_MF_TOGGLE_MENU" text="Trhy a Futures: otevřít / zavřít menu"/>
+        <text name="input_MF_UP" text="Menu Trhy a Futures: Nahoru"/>
+        <text name="input_MF_DOWN" text="Menu Trhy a Futures: Dolů"/>
+        <text name="input_MF_LEFT" text="Menu Trhy a Futures: Snížit množství"/>
+        <text name="input_MF_RIGHT" text="Menu Trhy a Futures: Zvýšit množství"/>
+        <text name="input_MF_DAYS_DOWN" text="Menu Trhy a Futures: Méně měsíců smlouvy"/>
+        <text name="input_MF_DAYS_UP" text="Menu Trhy a Futures: Více měsíců smlouvy"/>
+        <text name="input_MF_PAGE_UP" text="Menu Trhy a Futures: Stránka nahoru"/>
+        <text name="input_MF_PAGE_DOWN" text="Menu Trhy a Futures: Stránka dolů"/>
+        <text name="input_MF_FAST" text="Menu Trhy a Futures: Podržet pro kroky x10"/>
+        <text name="input_MF_SORT" text="Menu Trhy a Futures: Přepnout řazení"/>
+        <text name="input_MF_CONFIRM" text="Menu Trhy a Futures: Podepsat smlouvu"/>
+        <text name="input_MF_NEXT_TAB" text="Menu Trhy a Futures: Další karta"/>
+        <text name="input_MF_CANCEL" text="Menu Trhy a Futures: Zrušit vybranou smlouvu"/>
+        <text name="input_MF_CLOSE" text="Menu Trhy a Futures: Zavřít"/>
+        <text name="mf_action_open" text="Trhy a Futures"/>
+        <text name="mf_h_mouse" text="Myš: klik / kolečko"/>
+        <text name="mf_h_item" text="Položka"/>
+        <text name="mf_h_select" text="Vybrat"/>
+        <text name="mf_h_scroll" text="Posun"/>
+        <text name="mf_h_amount" text="Množství"/>
+        <text name="mf_h_days" text="Měsíce"/>
+        <text name="mf_h_fast" text="x10"/>
+        <text name="mf_h_sort" text="Řadit"/>
+        <text name="mf_h_sign" text="Podepsat"/>
+        <text name="mf_h_tab" text="Další karta"/>
+        <text name="mf_h_close" text="Zavřít"/>
+        <text name="mf_h_cancel" text="Zrušit smlouvu"/>
+        <text name="mf_offer" text="Sazba smlouvy položky"/>
+        <text name="mf_col_contract" text="Smlouva"/>
+        <text name="mf_cooldown_btn" text="Nedostupné (%s)"/>
+        <text name="mf_msg_cooldown" text="Smlouva na tuto položku byla právě podepsána. Znovu dostupná za %s."/>
+        <text name="mf_col_fee" text="Poplatek za zrušení"/>
+        <text name="mf_penalty_info" text="Penále: %d%% nedodané hodnoty při zrušení; %d%% nedodané hodnoty při vypršení."/>
+        <text name="mf_confirm_btn" text="Potvrdit?"/>
+        <text name="mf_msg_confirm_cancel" text="Zrušení stojí %s. Pro potvrzení klikni na Zrušit znovu."/>
+        <text name="mf_note_pen_cancel" text="Smlouva na %s zrušena. Penále: %s"/>
+        <text name="mf_note_pen_expired" text="Smlouva na %s vypršela nesplněná. Penále: %s"/>
+        <text name="input_MF_FREE_CANCEL" text="Menu Trhy a Futures: Použít bezplatné zrušení"/>
+        <text name="mf_h_free" text="Bezplatné zrušení"/>
+        <text name="mf_free_btn" text="Zrušit zdarma"/>
+        <text name="mf_free_ready" text="Bezplatné zrušení k dispozici: zruš libovolnou smlouvu bez penále (nebo si ho nech na později)"/>
+        <text name="mf_free_progress" text="Postup bezplatného zrušení: dodáno %s / %s"/>
+        <text name="mf_msg_free_confirm" text="Použít bezplatné zrušení na tuto smlouvu? Pro potvrzení klikni znovu."/>
+        <text name="mf_msg_free_used" text="Bezplatné zrušení použito. Bez penále."/>
+        <text name="mf_msg_no_free" text="Nemáš k dispozici žádné bezplatné zrušení."/>
+        <text name="mf_note_progress" text="Smlouva %s: dodáno %d%% (%s z %s L)"/>
+        <text name="mf_note_complete" text="Smlouva %s splněna! Dodáno všech %s L."/>
+        <text name="mf_note_free_earned" text="Získáno bezplatné zrušení! Použij ho v Mých smlouvách."/>
+        <text name="mf_note_free_used" text="Bezplatné zrušení použito na smlouvu %s. Bez penále."/>
+        <text name="mf_tab_history" text="Historie"/>
+        <text name="mf_tab_alerts" text="Upozornění"/>
+        <text name="mf_tab_block" text="Blokovat stanice"/>
+        <text name="mf_block_info" text="Blokované stanice se ignorují u cen, průměrů a nových smluv. Stávající smlouvy se nemění."/>
+        <text name="mf_block_station" text="Stanice"/>
+        <text name="mf_block_accepts" text="Přijímá"/>
+        <text name="mf_block_items" text="%d položek"/>
+        <text name="mf_block_auto" text="Přeskočit stanice, kam moje farma nemůže dodávat (automaticky)"/>
+        <text name="mf_block_noaccess" text="Bez přístupu"/>
+        <text name="mf_list_stations" text="Seznam stanic"/>
+        <text name="mf_popup_title" text="Stanice"/>
+        <text name="mf_distance" text="Vzdálenost"/>
+        <text name="mf_tag_contract" text="Smlouva"/>
+        <text name="mf_popup_none" text="Žádná stanice tuto položku nepřijímá."/>
+        <text name="mf_block_blocked" text="Blokována"/>
+        <text name="mf_block_none" text="Nebyly nalezeny žádné výkupní stanice."/>
+        <text name="mf_tab_settings" text="Nastavení"/>
+        <text name="mf_hud_btn_on" text="HUD: Zap."/>
+        <text name="mf_hud_btn_off" text="HUD: Vyp."/>
+        <text name="mf_hud_btn_move" text="Přesunout HUD"/>
+        <text name="mf_theme_1" text="Les"/>
+        <text name="mf_theme_2" text="Půlnoční modř"/>
+        <text name="mf_theme_3" text="Žňové zlato"/>
+        <text name="mf_theme_4" text="Stodolní červená"/>
+        <text name="mf_theme_5" text="Břidlice"/>
+        <text name="mf_theme_6" text="Antracit a oranž"/>
+        <text name="mf_theme_7" text="Západ slunce"/>
+        <text name="mf_theme_8" text="Levandule"/>
+        <text name="mf_theme_9" text="Tyrkys"/>
+        <text name="mf_theme_10" text="Pouštní písek"/>
+        <text name="mf_theme_11" text="Arktida"/>
+        <text name="mf_theme_12" text="Vysoký kontrast"/>
+        <text name="mf_theme_13" text="Výchozí ve hře"/>
+        <text name="mf_badge_sur" text="PŘE"/>
+        <text name="mf_badge_dem" text="POP"/>
+        <text name="mf_theme_same" text="Jako menu"/>
+        <text name="mf_theme_auto" text="Auto"/>
+        <text name="mf_set_style" text="Vzhled"/>
+        <text name="mf_set_menu_style" text="Styl menu"/>
+        <text name="mf_set_hud_style" text="Styl HUD"/>
+        <text name="mf_set_accent" text="Barva zvýraznění"/>
+        <text name="mf_set_bright" text="Jas"/>
+        <text name="mf_set_style_reset" text="Obnovit vzhled"/>
+        <text name="mf_cat_label" text="Kategorie"/>
+        <text name="mf_cat_new" text="Nová"/>
+        <text name="mf_cat_type_hint" text="Napište název, Enter = OK, Esc = zrušit"/>
+        <text name="mf_cat_ok" text="OK"/>
+        <text name="mf_cat_cancel" text="Zrušit"/>
+        <text name="mf_cat_pick_name" text="Vyberte název"/>
+        <text name="mf_cat_p1" text="Oblíbené"/>
+        <text name="mf_cat_p2" text="Prodat první"/>
+        <text name="mf_cat_p3" text="Držet"/>
+        <text name="mf_cat_p4" text="Smlouvy"/>
+        <text name="mf_cat_p5" text="Krmivo"/>
+        <text name="mf_cat_p6" text="Volně ložené"/>
+        <text name="mf_cat_p7" text="Tržní plodiny"/>
+        <text name="mf_cat_p8" text="Moje"/>
+        <text name="mf_cat_edit" text="Upravit"/>
+        <text name="mf_cat_reset_item" text="Obnovit"/>
+        <text name="mf_cat_rename" text="Přejmenovat"/>
+        <text name="mf_cat_prompt" text="Název kategorie"/>
+        <text name="mf_cat_default_name" text="Vlastní %d"/>
+        <text name="mf_cat_max" text="Můžete mít až 3 vlastní kategorie"/>
+        <text name="mf_cat_reset" text="Obnovit kategorie"/>
+        <text name="mf_cat_reset_confirm" text="Kliknutím znovu smažete vlastní kategorie a přesunuté položky"/>
+        <text name="mf_msg_cat_reset" text="Kategorie obnoveny"/>
+        <text name="mf_hud_move_hint" text="Přetažením přesuneš, rohem změníš velikost. Esc = zpět do menu."/>
+        <text name="mf_hud_move_back" text="Menu se vrátí za %d s"/>
+        <text name="mf_al_trigger" text="Spouštěcí cena"/>
+        <text name="mf_al_triggers_at" text="Spustí se při"/>
+        <text name="mf_col_hud" text="HUD"/>
+        <text name="mf_linked_suffix" text=" (propojeno)"/>
+        <text name="mf_hud_empty" text="Zaškrtni položky ve sloupci HUD"/>
+        <text name="mf_hud_avg" text="Medián"/>
+        <text name="mf_hud_best" text="Nejlepší cena"/>
+        <text name="mf_hud_contract" text="Sazba smlouvy"/>
+        <text name="mf_hud_unit" text="za 1 000 L"/>
+        <text name="mf_alert_up" text="Cenové upozornění: nejlepší cena pro %s vzrostla na %+.1f%% vs medián (%s)"/>
+        <text name="mf_alert_down" text="Cenové upozornění: nejlepší cena pro %s klesla na %+.1f%% vs medián (%s)"/>
+        <text name="mf_col_result" text="Výsledek"/>
+        <text name="mf_col_delivered" text="Dodáno"/>
+        <text name="mf_col_penalty" text="Penále"/>
+        <text name="mf_col_gain" text="Vs trh"/>
+        <text name="mf_col_net" text="Čistá"/>
+        <text name="mf_col_day" text="Den"/>
+        <text name="mf_no_history" text="Zatím žádné dokončené smlouvy."/>
+        <text name="mf_res_fulfilled" text="Splněna"/>
+        <text name="mf_res_cancelled" text="Zrušena"/>
+        <text name="mf_res_expired" text="Vypršela"/>
+        <text name="mf_res_free" text="Zrušení zdarma"/>
+        <text name="mf_hist_totals" text="Posledních %d smluv: vs trh %s   penále %s   čistá %s"/>
+        <text name="mf_al_item" text="Položka"/>
+        <text name="mf_al_now" text="Aktuální nejlepší cena"/>
+        <text name="mf_al_when" text="Upozorni mě, když cena"/>
+        <text name="mf_al_rises" text="Vzroste na"/>
+        <text name="mf_al_falls" text="Klesne na"/>
+        <text name="mf_al_threshold" text="Práh (vs medián)"/>
+        <text name="mf_al_add" text="Přidat upozornění"/>
+        <text name="mf_al_cond" text="Podmínka"/>
+        <text name="mf_al_status" text="Stav"/>
+        <text name="mf_al_none" text="Zatím žádná upozornění."/>
+        <text name="mf_al_status_trig" text="Spuštěno"/>
+        <text name="mf_al_status_wait" text="Čeká"/>
+        <text name="mf_al_delete" text="Smazat"/>
+        <text name="mf_al_clear" text="Smazat"/>
+        <text name="mf_hud_alert_title" text="CENOVÝ ALARM"/>
+        <text name="mf_hud_alert_more" text="+%d dalších"/>
+        <text name="mf_set_alert_sound" text="Zvuk alarmu"/>
+        <text name="mf_al_cond_up" text="Vzroste na %s"/>
+        <text name="mf_al_cond_down" text="Klesne na %s"/>
+        <text name="mf_msg_alert_limit" text="Dosažen limit upozornění. Nejprve jedno smaž."/>
+        <text name="mf_msg_alert_added" text="Upozornění zapnuto."/>
+        <text name="mf_msg_alert_added_met" text="Upozornění přidáno. Cena je už za prahem, takže se spustí při dalším překročení."/>
+        <text name="mf_set_market" text="Nastavení trhu"/>
+        <text name="mf_set_hostonly" text="Nastavení trhu může měnit pouze hostitel."/>
+        <text name="mf_set_preset" text="Předvolba obtížnosti"/>
+        <text name="mf_preset_0" text="Vlastní"/>
+        <text name="mf_preset_1" text="Klidná"/>
+        <text name="mf_preset_2" text="Normální"/>
+        <text name="mf_preset_3" text="Kolísavá"/>
+        <text name="mf_set_chance" text="Šance na událost za měsíc"/>
+        <text name="mf_set_strength" text="Síla událostí"/>
+        <text name="mf_set_drift" text="Denní posun cen"/>
+        <text name="mf_set_links" text="Propojené trhy"/>
+        <text name="mf_on" text="Zap."/>
+        <text name="mf_off" text="Vyp."/>
+        <text name="mf_set_link_strength" text="Síla propojení"/>
+        <text name="mf_set_cancel" text="Penále za zrušení"/>
+        <text name="mf_set_expiry" text="Penále za vypršení"/>
+        <text name="mf_set_wait" text="Čekání mezi smlouvami"/>
+        <text name="mf_set_free" text="Práh bezplatného zrušení"/>
+        <text name="mf_set_hud" text="Tvůj HUD (jen tento hráč)"/>
+        <text name="mf_tab_hud_show" text="Zobrazit HUD"/>
+        <text name="mf_set_hud_rotate" text="Sekund na položku"/>
+        <text name="mf_set_hud_opacity" text="Průhlednost HUD"/>
+        <text name="mf_set_hud_reset" text="Obnovit pozici HUD"/>
+        <text name="mf_msg_hud_reset" text="Pozice HUD obnovena."/>
+        <text name="mf_set_hud_help1" text="Zaškrtni položky ve sloupci HUD na kartě Trh."/>
+        <text name="mf_set_hud_help2" text="Stiskni Přesunout HUD v záhlaví menu: přetažením HUD ho přesuneš, rohem změníš velikost (%)."/>
+        <text name="mf_col_alert" text="Upozornění"/>
+        <text name="mf_msg_alert_removed" text="Upozornění odstraněno."/>
+        <text name="mf_msg_alert_added_edit" text="Upozornění zapnuto. Podmínku nastav níže."/>
+        <text name="mf_al_active" text="Upozornění aktivní"/>
+        <text name="mf_al_hint_on" text="Upozorní tě, když cena překročí práh. Odškrtnutím odstraníš."/>
+        <text name="mf_al_hint_off" text="Zaškrtnutím zapneš upozornění pro tuto položku."/>
+        <text name="mf_set_hud_size" text="Velikost HUD"/>
+        <text name="mf_base_note" text="herní cena %s x obtížnost %.2f"/>
+        <text name="mf_base_note_nodiff" text="násobitel obtížnosti nenalezen (x1,00)"/>
+        <text name="mf_set_fee_amount" text="Poplatek za smlouvu: sazba za množství"/>
+        <text name="mf_set_fee_duration" text="Poplatek za smlouvu: sazba za dobu"/>
+        <text name="mf_set_defaults" text="Obnovit výchozí"/>
+        <text name="mf_msg_reset_confirm" text="Obnovit VŠECHNA nastavení trhu na výchozí? Pro potvrzení klikni znovu."/>
+        <text name="mf_msg_reset_done" text="Nastavení trhu obnovena na výchozí."/>
+        <text name="mf_cat_stored_all" text="Uskladněné položky - Úplný seznam"/>
+        <text name="mf_stored_hide_hint" text="Zaškrtnutím sloupce koše skryješ položku v „Uskladněné položky“."/>
+    </texts>
+</l10n>
