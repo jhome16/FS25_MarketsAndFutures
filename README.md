@@ -17,3 +17,4 @@ Takes control of every sell price in the game and lets you lock in prices with c
 Open the menu with LEFT CTRL + M (all keys can be changed in Settings > Controls; look for the "Markets and Futures" entries).
 
 Detailed mod information can be found in the mod file (Markets and Futures - Mod Description) and at https://github.com/jhome16/FS25_MarketsAndFutures/tree/main
+
