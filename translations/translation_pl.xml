@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="mf_title" text="Rynki i Kontrakty terminowe"/>
+        <text name="mf_tab_market" text="Rynek"/>
+        <text name="mf_tab_contracts" text="Moje kontrakty"/>
+        <text name="mf_col_item" text="Towar"/>
+        <text name="mf_col_price" text="Cena / 1000 L"/>
+        <text name="mf_col_change" text="vs śr."/>
+        <text name="mf_col_avg" text="Śr."/>
+        <text name="mf_surplus" text="Nadwyżka"/>
+        <text name="mf_demand" text="Popyt"/>
+        <text name="mf_base" text="Mediana ceny"/>
+        <text name="mf_vs_median" text="vs. mediana"/>
+        <text name="mf_best_vs_median" text="Najlepsza stacja vs. mediana"/>
+        <text name="mf_current" text="Cena rynkowa"/>
+        <text name="mf_today" text="Zmiana od wczoraj"/>
+        <text name="mf_events" text="Zdarzenia rynkowe"/>
+        <text name="mf_none" text="Brak"/>
+        <text name="mf_new_contract" text="Nowy kontrakt"/>
+        <text name="mf_amount" text="Ilość"/>
+        <text name="mf_duration" text="Czas trwania"/>
+        <text name="mf_days" text="dni"/>
+        <text name="mf_months" text="mies."/>
+        <text name="mf_month" text="mies."/>
+        <text name="mf_set_maxmonths" text="Maksymalny czas kontraktu"/>
+        <text name="mf_locked" text="Cena zablokowana / 1000 L"/>
+        <text name="mf_stn_now" text="Aktualna cena stacji kontraktu"/>
+        <text name="mf_locked_vs_avg" text="Cena zablokowana vs mediana"/>
+        <text name="mf_discount" text="Opłata kontraktowa"/>
+        <text name="mf_total" text="Maks. wartość kontraktu"/>
+        <text name="mf_help_market" text="[Klik] Wybierz / przyciski   [Kółko] Przewijanie   [Góra/Dół] Towar   [Lewo/Prawo] Ilość   [Q/E] Miesiące   [S] Sortuj   [Enter] Podpisz   [Tab] Następna karta   [Esc] Zamknij"/>
+        <text name="mf_help_contracts" text="[Klik] Wybierz / Anuluj   [Góra/Dół] Wybierz   [Delete] Anuluj kontrakt   [Tab] Następna karta   [Esc] Zamknij"/>
+        <text name="mf_no_contracts" text="Nie masz aktywnych kontraktów."/>
+        <text name="mf_remaining" text="Pozostało"/>
+        <text name="mf_months_left" text="Pozostało mies."/>
+        <text name="mf_days_left" text="Dni do końca"/>
+        <text name="mf_vs_market" text="vs rynek"/>
+        <text name="mf_note_surplus" text="Nadwyżka na rynku: ceny towaru %s spadają!"/>
+        <text name="mf_note_demand" text="Duży popyt: ceny towaru %s rosną!"/>
+        <text name="mf_msg_signed" text="Kontrakt podpisany."/>
+        <text name="mf_msg_sent" text="Wniosek o kontrakt wysłany do serwera."/>
+        <text name="mf_msg_failed" text="Nie można utworzyć kontraktu (osiągnięto limit lub dane nieprawidłowe)."/>
+        <text name="mf_msg_cancelled" text="Kontrakt anulowany."/>
+        <text name="mf_sort" text="Sortowanie:"/>
+        <text name="mf_sort_name_asc" text="Nazwa A-Z"/>
+        <text name="mf_sort_name_desc" text="Nazwa Z-A"/>
+        <text name="mf_sort_high" text="Najwyższy vs śr."/>
+        <text name="mf_sort_low" text="Najniższy vs śr."/>
+        <text name="mf_sign_btn" text="Podpisz kontrakt"/>
+        <text name="mf_cancel_btn" text="Anuluj"/>
+        <text name="mf_help_events" text="[Klik] Przejdź do towaru w Rynku   [Kółko / Góra/Dół] Przewijanie   [Tab] Następna karta   [Esc] Zamknij"/>
+        <text name="mf_tab_events" text="Wszystkie zdarzenia"/>
+        <text name="mf_filter_all" text="Wszystkie"/>
+        <text name="mf_filter_surplus" text="Nadwyżka"/>
+        <text name="mf_filter_demand" text="Popyt"/>
+        <text name="mf_hd_price1" text="Cena"/>
+        <text name="mf_hd_price2" text="Mediana"/>
+        <text name="mf_hd_vs1" text="vs."/>
+        <text name="mf_hd_vs2" text="Mediana"/>
+        <text name="mf_hd_stn1" text="Stacja"/>
+        <text name="mf_hd_stn2" text="Średnia"/>
+        <text name="mf_hd_best1" text="Najlepsza"/>
+        <text name="mf_hd_best2" text="stacja"/>
+        <text name="mf_hd_bvm1" text="Najlepsza stacja"/>
+        <text name="mf_hd_bvm2" text="vs. mediana"/>
+        <text name="mf_hd_cvb1" text="Kontrakt vs."/>
+        <text name="mf_hd_cvb2" text="Najlepsza stacja"/>
+        <text name="mf_col_market" text="Rynek"/>
+        <text name="mf_col_stnavg" text="Śr. stacji"/>
+        <text name="mf_col_best" text="Najl. stacja"/>
+        <text name="mf_col_station" text="Stacja"/>
+        <text name="mf_col_type" text="Typ"/>
+        <text name="mf_col_effect" text="Wpływ na cenę"/>
+        <text name="mf_stn_avg" text="Średnia ze stacji (%d)"/>
+        <text name="mf_stn_best" text="Najlepsza cena stacji"/>
+        <text name="mf_contract_station" text="Stacja kontraktu"/>
+        <text name="mf_no_station" text="Brak dostępnych"/>
+        <text name="mf_events_count" text="Aktywne zdarzenia: %d"/>
+        <text name="mf_no_events" text="Brak aktywnych zdarzeń rynkowych."/>
+        <text name="mf_msg_nostation" text="Brak dostępnej stacji skupu dla tego towaru."/>
+        <text name="mf_cat_all" text="Wszystkie towary"/>
+        <text name="mf_cat_grain" text="Zboża"/>
+        <text name="mf_cat_veg" text="Warzywa"/>
+        <text name="mf_cat_root" text="Okopowe"/>
+        <text name="mf_cat_special" text="Rośliny specjalne"/>
+        <text name="mf_cat_orchard" text="Winnice i sady"/>
+        <text name="mf_cat_grass" text="Inne / Użytki zielone"/>
+        <text name="mf_cat_other" text="Pozostałe towary niewymienione niżej"/>
+        <text name="mf_no_items" text="Brak towarów w tej kategorii."/>
+        <text name="mf_graph_title" text="Historia cen (rok)"/>
+        <text name="mf_graph_legend" text="Najlepsza cena w miesiącu   jasne = ten rok   ciemne = zeszły rok"/>
+        <text name="mf_graph_now" text="Śr. miesiąca"/>
+        <text name="mf_graph_game_btn" text="Cena gry"/>
+        <text name="mf_graph_nodata" text="Brak danych o cenach"/>
+        <text name="mf_cat_stored" text="Towary w magazynie"/>
+        <text name="mf_stored" text="W magazynie"/>
+        <text name="input_MF_TOGGLE_MENU" text="Rynki i Kontrakty terminowe: otwórz / zamknij menu"/>
+        <text name="input_MF_UP" text="Menu Rynki i Kontrakty terminowe: W górę"/>
+        <text name="input_MF_DOWN" text="Menu Rynki i Kontrakty terminowe: W dół"/>
+        <text name="input_MF_LEFT" text="Menu Rynki i Kontrakty terminowe: Zmniejsz ilość"/>
+        <text name="input_MF_RIGHT" text="Menu Rynki i Kontrakty terminowe: Zwiększ ilość"/>
+        <text name="input_MF_DAYS_DOWN" text="Menu Rynki i Kontrakty terminowe: Mniej miesięcy kontraktu"/>
+        <text name="input_MF_DAYS_UP" text="Menu Rynki i Kontrakty terminowe: Więcej miesięcy kontraktu"/>
+        <text name="input_MF_PAGE_UP" text="Menu Rynki i Kontrakty terminowe: Strona w górę"/>
+        <text name="input_MF_PAGE_DOWN" text="Menu Rynki i Kontrakty terminowe: Strona w dół"/>
+        <text name="input_MF_FAST" text="Menu Rynki i Kontrakty terminowe: Przytrzymaj dla kroków x10"/>
+        <text name="input_MF_SORT" text="Menu Rynki i Kontrakty terminowe: Zmień sortowanie"/>
+        <text name="input_MF_CONFIRM" text="Menu Rynki i Kontrakty terminowe: Podpisz kontrakt"/>
+        <text name="input_MF_NEXT_TAB" text="Menu Rynki i Kontrakty terminowe: Następna karta"/>
+        <text name="input_MF_CANCEL" text="Menu Rynki i Kontrakty terminowe: Anuluj wybrany kontrakt"/>
+        <text name="input_MF_CLOSE" text="Menu Rynki i Kontrakty terminowe: Zamknij"/>
+        <text name="mf_action_open" text="Rynki i Kontrakty terminowe"/>
+        <text name="mf_h_mouse" text="Mysz: klik / kółko"/>
+        <text name="mf_h_item" text="Towar"/>
+        <text name="mf_h_select" text="Wybierz"/>
+        <text name="mf_h_scroll" text="Przewijanie"/>
+        <text name="mf_h_amount" text="Ilość"/>
+        <text name="mf_h_days" text="Miesiące"/>
+        <text name="mf_h_fast" text="x10"/>
+        <text name="mf_h_sort" text="Sortuj"/>
+        <text name="mf_h_sign" text="Podpisz"/>
+        <text name="mf_h_tab" text="Następna karta"/>
+        <text name="mf_h_close" text="Zamknij"/>
+        <text name="mf_h_cancel" text="Anuluj kontrakt"/>
+        <text name="mf_offer" text="Stawka kontraktu na towar"/>
+        <text name="mf_col_contract" text="Kontrakt"/>
+        <text name="mf_cooldown_btn" text="Niedostępne (%s)"/>
+        <text name="mf_msg_cooldown" text="Kontrakt na ten towar został właśnie podpisany. Ponownie dostępny za %s."/>
+        <text name="mf_col_fee" text="Opłata za anulowanie"/>
+        <text name="mf_penalty_info" text="Kary: %d%% niedostarczonej wartości przy anulowaniu; %d%% niedostarczonej wartości po wygaśnięciu."/>
+        <text name="mf_confirm_btn" text="Potwierdzić?"/>
+        <text name="mf_msg_confirm_cancel" text="Anulowanie kosztuje %s. Kliknij Anuluj ponownie, aby potwierdzić."/>
+        <text name="mf_note_pen_cancel" text="Kontrakt na %s anulowany. Kara: %s"/>
+        <text name="mf_note_pen_expired" text="Kontrakt na %s wygasł niezrealizowany. Kara: %s"/>
+        <text name="input_MF_FREE_CANCEL" text="Menu Rynki i Kontrakty terminowe: Użyj darmowego anulowania"/>
+        <text name="mf_h_free" text="Darmowe anulowanie"/>
+        <text name="mf_free_btn" text="Anuluj za darmo"/>
+        <text name="mf_free_ready" text="Dostępne darmowe anulowanie: anuluj dowolny kontrakt bez kary (lub zachowaj je na później)"/>
+        <text name="mf_free_progress" text="Postęp darmowego anulowania: dostarczono %s / %s"/>
+        <text name="mf_msg_free_confirm" text="Użyć darmowego anulowania dla tego kontraktu? Kliknij ponownie, aby potwierdzić."/>
+        <text name="mf_msg_free_used" text="Darmowe anulowanie wykorzystane. Bez kary."/>
+        <text name="mf_msg_no_free" text="Nie masz dostępnego darmowego anulowania."/>
+        <text name="mf_note_progress" text="Kontrakt %s: dostarczono %d%% (%s z %s L)"/>
+        <text name="mf_note_complete" text="Kontrakt %s zrealizowany! Dostarczono całe %s L."/>
+        <text name="mf_note_free_earned" text="Zdobyto darmowe anulowanie! Użyj go w Moich kontraktach."/>
+        <text name="mf_note_free_used" text="Darmowe anulowanie użyte dla kontraktu na %s. Bez kary."/>
+        <text name="mf_tab_history" text="Historia"/>
+        <text name="mf_tab_alerts" text="Alerty"/>
+        <text name="mf_tab_block" text="Blokuj stacje"/>
+        <text name="mf_block_info" text="Zablokowane stacje są ignorowane w cenach, średnich i nowych kontraktach. Istniejące kontrakty nie zmieniają się."/>
+        <text name="mf_block_station" text="Stacja"/>
+        <text name="mf_block_accepts" text="Przyjmuje"/>
+        <text name="mf_block_items" text="%d towarów"/>
+        <text name="mf_block_auto" text="Pomijaj stacje, do których moje gospodarstwo nie może dostarczać (automatycznie)"/>
+        <text name="mf_block_noaccess" text="Brak dostępu"/>
+        <text name="mf_list_stations" text="Lista stacji"/>
+        <text name="mf_popup_title" text="Stacje"/>
+        <text name="mf_distance" text="Odległość"/>
+        <text name="mf_tag_contract" text="Kontrakt"/>
+        <text name="mf_popup_none" text="Żadna stacja nie przyjmuje tego towaru."/>
+        <text name="mf_block_blocked" text="Zablokowana"/>
+        <text name="mf_block_none" text="Nie znaleziono stacji sprzedaży."/>
+        <text name="mf_tab_settings" text="Ustawienia"/>
+        <text name="mf_hud_btn_on" text="HUD: Wł."/>
+        <text name="mf_hud_btn_off" text="HUD: Wył."/>
+        <text name="mf_hud_btn_move" text="Przesuń HUD"/>
+        <text name="mf_theme_1" text="Las"/>
+        <text name="mf_theme_2" text="Północny granat"/>
+        <text name="mf_theme_3" text="Żniwne złoto"/>
+        <text name="mf_theme_4" text="Stodolna czerwień"/>
+        <text name="mf_theme_5" text="Łupek"/>
+        <text name="mf_theme_6" text="Grafit i pomarańcz"/>
+        <text name="mf_theme_7" text="Zachód słońca"/>
+        <text name="mf_theme_8" text="Lawenda"/>
+        <text name="mf_theme_9" text="Morski"/>
+        <text name="mf_theme_10" text="Pustynny piasek"/>
+        <text name="mf_theme_11" text="Arktyka"/>
+        <text name="mf_theme_12" text="Wysoki kontrast"/>
+        <text name="mf_theme_13" text="Domyślny w grze"/>
+        <text name="mf_badge_sur" text="NAD"/>
+        <text name="mf_badge_dem" text="POP"/>
+        <text name="mf_theme_same" text="Jak menu"/>
+        <text name="mf_theme_auto" text="Auto"/>
+        <text name="mf_set_style" text="Wygląd"/>
+        <text name="mf_set_menu_style" text="Styl menu"/>
+        <text name="mf_set_hud_style" text="Styl HUD"/>
+        <text name="mf_set_accent" text="Kolor akcentu"/>
+        <text name="mf_set_bright" text="Jasność"/>
+        <text name="mf_set_style_reset" text="Resetuj wygląd"/>
+        <text name="mf_cat_label" text="Kategoria"/>
+        <text name="mf_cat_new" text="Nowa"/>
+        <text name="mf_cat_type_hint" text="Wpisz nazwę, Enter = OK, Esc = anuluj"/>
+        <text name="mf_cat_ok" text="OK"/>
+        <text name="mf_cat_cancel" text="Anuluj"/>
+        <text name="mf_cat_pick_name" text="Wybierz nazwę"/>
+        <text name="mf_cat_p1" text="Ulubione"/>
+        <text name="mf_cat_p2" text="Sprzedaj najpierw"/>
+        <text name="mf_cat_p3" text="Trzymaj"/>
+        <text name="mf_cat_p4" text="Kontrakty"/>
+        <text name="mf_cat_p5" text="Pasza"/>
+        <text name="mf_cat_p6" text="Luzem"/>
+        <text name="mf_cat_p7" text="Uprawy dochodowe"/>
+        <text name="mf_cat_p8" text="Moje"/>
+        <text name="mf_cat_edit" text="Edytuj"/>
+        <text name="mf_cat_reset_item" text="Resetuj"/>
+        <text name="mf_cat_rename" text="Zmień nazwę"/>
+        <text name="mf_cat_prompt" text="Nazwa kategorii"/>
+        <text name="mf_cat_default_name" text="Własna %d"/>
+        <text name="mf_cat_max" text="Możesz mieć do 3 własnych kategorii"/>
+        <text name="mf_cat_reset" text="Resetuj kategorie"/>
+        <text name="mf_cat_reset_confirm" text="Kliknij ponownie, aby usunąć własne kategorie i przeniesione towary"/>
+        <text name="mf_msg_cat_reset" text="Kategorie zresetowane"/>
+        <text name="mf_hud_move_hint" text="Przeciągnij, aby przesunąć, róg, aby zmienić rozmiar. Esc = powrót do menu."/>
+        <text name="mf_hud_move_back" text="Menu wróci za %d s"/>
+        <text name="mf_al_trigger" text="Cena wyzwalająca"/>
+        <text name="mf_al_triggers_at" text="Wyzwala się przy"/>
+        <text name="mf_col_hud" text="HUD"/>
+        <text name="mf_linked_suffix" text=" (powiązany)"/>
+        <text name="mf_hud_empty" text="Zaznacz towary w kolumnie HUD"/>
+        <text name="mf_hud_avg" text="Mediana"/>
+        <text name="mf_hud_best" text="Najlepsza cena"/>
+        <text name="mf_hud_contract" text="Stawka kontraktu"/>
+        <text name="mf_hud_unit" text="za 1000 L"/>
+        <text name="mf_alert_up" text="Alert cenowy: najlepsza cena dla %s wzrosła do %+.1f%% vs mediana (%s)"/>
+        <text name="mf_alert_down" text="Alert cenowy: najlepsza cena dla %s spadła do %+.1f%% vs mediana (%s)"/>
+        <text name="mf_col_result" text="Wynik"/>
+        <text name="mf_col_delivered" text="Dostarczono"/>
+        <text name="mf_col_penalty" text="Kara"/>
+        <text name="mf_col_gain" text="Vs rynek"/>
+        <text name="mf_col_net" text="Netto"/>
+        <text name="mf_col_day" text="Dzień"/>
+        <text name="mf_no_history" text="Brak zakończonych kontraktów."/>
+        <text name="mf_res_fulfilled" text="Zrealizowany"/>
+        <text name="mf_res_cancelled" text="Anulowany"/>
+        <text name="mf_res_expired" text="Wygasły"/>
+        <text name="mf_res_free" text="Darmowe anul."/>
+        <text name="mf_hist_totals" text="Ostatnie %d kontraktów: vs rynek %s   kary %s   netto %s"/>
+        <text name="mf_al_item" text="Towar"/>
+        <text name="mf_al_now" text="Aktualna najlepsza cena"/>
+        <text name="mf_al_when" text="Powiadom mnie, gdy cena"/>
+        <text name="mf_al_rises" text="Wzrośnie do"/>
+        <text name="mf_al_falls" text="Spadnie do"/>
+        <text name="mf_al_threshold" text="Próg (vs mediana)"/>
+        <text name="mf_al_add" text="Dodaj alert"/>
+        <text name="mf_al_cond" text="Warunek"/>
+        <text name="mf_al_status" text="Stan"/>
+        <text name="mf_al_none" text="Brak alertów."/>
+        <text name="mf_al_status_trig" text="Wyzwolony"/>
+        <text name="mf_al_status_wait" text="Oczekuje"/>
+        <text name="mf_al_delete" text="Usuń"/>
+        <text name="mf_al_clear" text="Wyczyść"/>
+        <text name="mf_hud_alert_title" text="ALERT CENY"/>
+        <text name="mf_hud_alert_more" text="+%d więcej"/>
+        <text name="mf_set_alert_sound" text="Dźwięk alertu"/>
+        <text name="mf_al_cond_up" text="Wzrośnie do %s"/>
+        <text name="mf_al_cond_down" text="Spadnie do %s"/>
+        <text name="mf_msg_alert_limit" text="Osiągnięto limit alertów. Najpierw usuń jeden."/>
+        <text name="mf_msg_alert_added" text="Alert włączony."/>
+        <text name="mf_msg_alert_added_met" text="Alert dodany. Cena już go przekroczyła, więc zadziała przy następnym przekroczeniu."/>
+        <text name="mf_set_market" text="Ustawienia rynku"/>
+        <text name="mf_set_hostonly" text="Tylko host może zmieniać ustawienia rynku."/>
+        <text name="mf_set_preset" text="Ustawienie trudności"/>
+        <text name="mf_preset_0" text="Własne"/>
+        <text name="mf_preset_1" text="Spokojny"/>
+        <text name="mf_preset_2" text="Normalny"/>
+        <text name="mf_preset_3" text="Zmienny"/>
+        <text name="mf_set_chance" text="Szansa zdarzenia na miesiąc"/>
+        <text name="mf_set_strength" text="Siła zdarzeń"/>
+        <text name="mf_set_drift" text="Dzienny dryf cen"/>
+        <text name="mf_set_links" text="Powiązane rynki"/>
+        <text name="mf_on" text="Wł."/>
+        <text name="mf_off" text="Wył."/>
+        <text name="mf_set_link_strength" text="Siła powiązania"/>
+        <text name="mf_set_cancel" text="Kara za anulowanie"/>
+        <text name="mf_set_expiry" text="Kara za wygaśnięcie"/>
+        <text name="mf_set_wait" text="Przerwa między kontraktami"/>
+        <text name="mf_set_free" text="Próg darmowego anulowania"/>
+        <text name="mf_set_hud" text="Twój HUD (tylko ten gracz)"/>
+        <text name="mf_tab_hud_show" text="Pokaż HUD"/>
+        <text name="mf_set_hud_rotate" text="Sekund na towar"/>
+        <text name="mf_set_hud_opacity" text="Przezroczystość HUD"/>
+        <text name="mf_set_hud_reset" text="Resetuj pozycję HUD"/>
+        <text name="mf_msg_hud_reset" text="Pozycja HUD zresetowana."/>
+        <text name="mf_set_hud_help1" text="Zaznacz towary w kolumnie HUD na karcie Rynek."/>
+        <text name="mf_set_hud_help2" text="Naciśnij Przesuń HUD w nagłówku menu: przeciągnij HUD, aby go przesunąć, a jego róg, aby zmienić rozmiar (%)."/>
+        <text name="mf_col_alert" text="Alert"/>
+        <text name="mf_msg_alert_removed" text="Alert usunięty."/>
+        <text name="mf_msg_alert_added_edit" text="Alert włączony. Ustaw jego warunek poniżej."/>
+        <text name="mf_al_active" text="Alert aktywny"/>
+        <text name="mf_al_hint_on" text="Powiadamia, gdy cena przekroczy próg. Odznacz, aby usunąć."/>
+        <text name="mf_al_hint_off" text="Zaznacz, aby włączyć alert dla tego towaru."/>
+        <text name="mf_set_hud_size" text="Rozmiar HUD"/>
+        <text name="mf_base_note" text="cena z gry %s x trudność %.2f"/>
+        <text name="mf_base_note_nodiff" text="nie znaleziono mnożnika trudności (x1,00)"/>
+        <text name="mf_set_fee_amount" text="Opłata kontraktowa: stawka za ilość"/>
+        <text name="mf_set_fee_duration" text="Opłata kontraktowa: stawka za czas"/>
+        <text name="mf_set_defaults" text="Przywróć domyślne"/>
+        <text name="mf_msg_reset_confirm" text="Przywrócić WSZYSTKIE ustawienia rynku do domyślnych? Kliknij ponownie, aby potwierdzić."/>
+        <text name="mf_msg_reset_done" text="Ustawienia rynku przywrócone do domyślnych."/>
+        <text name="mf_cat_stored_all" text="Towary w magazynie - Pełna lista"/>
+        <text name="mf_stored_hide_hint" text="Zaznacz kolumnę kosza, aby ukryć towar na liście „Towary w magazynie”."/>
+    </texts>
+</l10n>
