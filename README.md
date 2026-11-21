@@ -1,5 +1,5 @@
 # FS25_MarketsAndFutures
-FS25_MarketsAndFutures
+FS25 Markets And Futures
 
 Takes control of every sell price in the game and lets you lock in prices with contracts.
 
