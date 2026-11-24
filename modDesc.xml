@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="116">
+    <author>jhome</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Markets And Futures</en>
+        <de>Märkte Und Terminkontrakte</de>
+        <fr>Marchés Et Contrats À Terme</fr>
+        <es>Mercados Y Futuros</es>
+        <it>Mercati E Futures</it>
+        <pl>Rynki I Kontrakty Terminowe</pl>
+        <cz>Trhy A Futures</cz>
+        <ru>Рынки И Фьючерсы</ru>
+        <br>Mercados E Futuros</br>
+        <nl>Markten En Futures</nl>
+        <tr>Piyasalar Ve Vadeli İşlemler</tr>
+    </title>
+    <description>
+        <en><![CDATA[Takes control of every sell price in the game and lets you lock in prices with contracts.
+
+- Prices drift hour by hour and react to random SURPLUS (price drop) and DEMAND (price spike) events for each crop and product. Related crops move together.
+- Events last 3 to 14 game months. Everything is counted in months, so the market feels the same at any days-per-month setting.
+- Contracts: choose an item, an amount (1,000 - 500,000 L) and a duration in game months (1 - 120). The locked price is the contract station's price, adjusted by the item's contract rate (-25% to +25%) and a contract fee. Deliver to that station before the deadline. Missing the deadline or cancelling early costs a penalty, and delivering enough earns a free cancel.
+- A large, mouse-friendly menu: market list with Price Median, Station Average and Best Station columns, a station list with distances, events, history, price alerts and settings.
+- Block Stations tab and an automatic access check keep unusable stations out of prices and contracts.
+- A rotating on-screen HUD, 13 colour themes, rounded panels and item icons.
+- Your HUD items, price alerts and hidden Stored Items are saved separately for each savegame.
+- Works in singleplayer and multiplayer (the host controls the market settings).
+- Price alerts watch the best station price. A triggered alert shows a pulsing banner on the HUD (with a sound you can turn off) until you clear it or the price no longer meets it.
+- Move items between categories and make up to 3 categories of your own, saved per player and per savegame.
+
+Open the menu with LEFT CTRL + M (all keys can be changed in Settings > Controls; look for the "Markets and Futures" entries).
+
+Detailed mod information can be found in the mod file (Markets and Futures - Mod Description) and at https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></en>
+        <de><![CDATA[Übernimmt die Kontrolle über alle Verkaufspreise im Spiel und erlaubt es, Preise mit Verträgen festzuschreiben.
+
+- Die Preise schwanken stündlich und reagieren auf zufällige ÜBERANGEBOT- (Preisfall) und NACHFRAGE-Ereignisse (Preissprung) für jede Frucht und jedes Produkt. Verwandte Früchte bewegen sich gemeinsam.
+- Ereignisse dauern 3 bis 14 Spielmonate. Alles wird in Monaten gerechnet, daher fühlt sich der Markt bei jeder Tage-pro-Monat-Einstellung gleich an.
+- Verträge: Artikel, Menge (1.000 - 500.000 L) und Laufzeit in Spielmonaten (1 - 120) wählen. Der Fixpreis ist der Preis der Vertragsstation, angepasst durch den Vertragssatz des Artikels (-25 % bis +25 %) und eine Vertragsgebühr. Vor Fristende an diese Station liefern. Verpasste Fristen oder frühes Kündigen kosten eine Strafe, genug Lieferungen bringen eine Gratis-Kündigung.
+- Ein großes, mausfreundliches Menü: Marktliste mit Preis-Median, Stationsdurchschnitt und bester Station, Stationsliste mit Entfernungen, Ereignisse, Verlauf, Preisalarme und Einstellungen.
+- Der Reiter „Stationen sperren“ und eine automatische Zugangsprüfung halten unbrauchbare Stationen aus Preisen und Verträgen heraus.
+- Rotierendes HUD, 13 Farbschemata, abgerundete Panels und Artikelsymbole.
+- HUD-Artikel, Preisalarme und ausgeblendete gelagerte Artikel werden für jeden Spielstand getrennt gespeichert.
+- Funktioniert im Einzel- und Mehrspielermodus (der Host steuert die Markteinstellungen).
+- Preisalarme beobachten den besten Stationspreis. Ein ausgelöster Alarm zeigt ein pulsierendes Banner im HUD (mit abschaltbarem Ton), bis du ihn löschst oder der Preis die Bedingung nicht mehr erfüllt.
+- Artikel zwischen Kategorien verschieben und bis zu 3 eigene Kategorien anlegen, gespeichert pro Spieler und Spielstand.
+
+Menü öffnen mit LINKE STRG + M (alle Tasten lassen sich unter Einstellungen > Steuerung ändern; Einträge „Märkte und Terminkontrakte“).
+
+Ausführliche Informationen zum Mod findest du in der Mod-Datei (Markets and Futures - Mod Description) und unter https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></de>
+        <fr><![CDATA[Prend le contrôle de tous les prix de vente du jeu et permet de verrouiller des prix grâce à des contrats.
+
+- Les prix évoluent d'heure en heure et réagissent à des événements aléatoires de SURPLUS (baisse) et de DEMANDE (hausse) pour chaque culture et produit. Les cultures proches évoluent ensemble.
+- Les événements durent de 3 à 14 mois de jeu. Tout est compté en mois, le marché se comporte donc de la même façon quel que soit le nombre de jours par mois.
+- Contrats : choisissez un article, une quantité (1 000 - 500 000 L) et une durée en mois du jeu (1 - 120). Le prix verrouillé est celui de la station du contrat, ajusté par le taux de contrat de l'article (-25 % à +25 %) et des frais de contrat. Livrez à cette station avant l'échéance. Manquer l'échéance ou annuler tôt coûte une pénalité, et des livraisons suffisantes donnent une annulation gratuite.
+- Un grand menu utilisable à la souris : liste du marché avec prix médian, moyenne des stations et meilleure station, liste des stations avec distances, événements, historique, alertes de prix et réglages.
+- L'onglet Bloquer stations et un contrôle d'accès automatique écartent les stations inutilisables des prix et des contrats.
+- HUD rotatif à l'écran, 13 thèmes de couleurs, panneaux arrondis et icônes d'articles.
+- Les articles du HUD, les alertes de prix et les articles stockés masqués sont enregistrés séparément pour chaque sauvegarde.
+- Fonctionne en solo et en multijoueur (l'hôte gère les réglages du marché).
+- Les alertes de prix suivent le meilleur prix de station. Une alerte déclenchée affiche une bannière pulsante sur le HUD (avec un son désactivable) jusqu'à ce que vous l'effaciez ou que le prix ne remplisse plus la condition.
+- Déplacez des articles entre catégories et créez jusqu'à 3 catégories perso, enregistrées par joueur et par sauvegarde.
+
+Ouvrez le menu avec CTRL GAUCHE + M (toutes les touches se changent dans Paramètres > Commandes ; entrées « Marchés et Contrats à terme »).
+
+Des informations détaillées sur le mod se trouvent dans le fichier du mod (Markets and Futures - Mod Description) et sur https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></fr>
+        <es><![CDATA[Toma el control de todos los precios de venta del juego y permite fijar precios mediante contratos.
+
+- Los precios varían hora a hora y reaccionan a eventos aleatorios de EXCEDENTE (bajada) y DEMANDA (subida) para cada cultivo y producto. Los cultivos relacionados se mueven juntos.
+- Los eventos duran de 3 a 14 meses de juego. Todo se cuenta en meses, así que el mercado se comporta igual con cualquier ajuste de días por mes.
+- Contratos: elige un artículo, una cantidad (1.000 - 500.000 L) y una duración en meses del juego (1 - 120). El precio fijado es el de la estación del contrato, ajustado por la tasa de contrato del artículo (-25 % a +25 %) y una comisión de contrato. Entrega en esa estación antes del plazo. Incumplir el plazo o cancelar antes tiene una penalización, y entregar lo suficiente da una cancelación gratuita.
+- Un menú grande y cómodo con el ratón: lista de mercado con precio mediano, promedio de estaciones y mejor estación, lista de estaciones con distancias, eventos, historial, alertas de precio y ajustes.
+- La pestaña Bloquear estaciones y una comprobación de acceso automática excluyen las estaciones inutilizables de precios y contratos.
+- HUD rotativo en pantalla, 13 temas de color, paneles redondeados e iconos de artículos.
+- Los artículos del HUD, las alertas de precio y los artículos almacenados ocultos se guardan por separado en cada partida.
+- Funciona en un jugador y multijugador (el anfitrión controla los ajustes del mercado).
+- Las alertas de precio vigilan el mejor precio de estación. Una alerta activada muestra un banner pulsante en el HUD (con un sonido que puedes desactivar) hasta que la borres o el precio deje de cumplirla.
+- Mueve artículos entre categorías y crea hasta 3 categorías propias, guardadas por jugador y por partida.
+
+Abre el menú con CTRL IZQUIERDO + M (todas las teclas se cambian en Ajustes > Controles; entradas «Mercados y Futuros»).
+
+Encontrarás información detallada del mod en el archivo del mod (Markets and Futures - Mod Description) y en https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></es>
+        <it><![CDATA[Prende il controllo di tutti i prezzi di vendita del gioco e permette di bloccare i prezzi con i contratti.
+
+- I prezzi variano ora per ora e reagiscono a eventi casuali di SURPLUS (calo) e DOMANDA (aumento) per ogni coltura e prodotto. Le colture correlate si muovono insieme.
+- Gli eventi durano da 3 a 14 mesi di gioco. Tutto è conteggiato in mesi, quindi il mercato si comporta allo stesso modo con qualsiasi impostazione di giorni per mese.
+- Contratti: scegli un articolo, una quantità (1.000 - 500.000 L) e una durata in mesi di gioco (1 - 120). Il prezzo bloccato è quello della stazione del contratto, corretto dal tasso di contratto dell'articolo (da -25% a +25%) e da una commissione di contratto. Consegna a quella stazione entro la scadenza. Mancare la scadenza o annullare in anticipo costa una penale, e consegne sufficienti danno un annullamento gratuito.
+- Un menu ampio e comodo con il mouse: elenco del mercato con prezzo mediano, media delle stazioni e migliore stazione, elenco delle stazioni con distanze, eventi, storico, avvisi di prezzo e impostazioni.
+- La scheda Blocca stazioni e un controllo di accesso automatico escludono le stazioni inutilizzabili da prezzi e contratti.
+- HUD a rotazione sullo schermo, 13 temi colore, pannelli arrotondati e icone degli articoli.
+- Gli articoli dell'HUD, gli avvisi di prezzo e gli articoli immagazzinati nascosti vengono salvati separatamente per ogni salvataggio.
+- Funziona in singolo e multigiocatore (l'host gestisce le impostazioni del mercato).
+- Gli avvisi di prezzo controllano il miglior prezzo di stazione. Un avviso attivato mostra un banner pulsante sull'HUD (con un suono disattivabile) finché non lo cancelli o il prezzo non soddisfa più la condizione.
+- Sposta gli articoli tra le categorie e crea fino a 3 categorie personali, salvate per giocatore e per salvataggio.
+
+Apri il menu con CTRL SINISTRO + M (tutti i tasti si cambiano in Impostazioni > Controlli; voci «Mercati e Futures»).
+
+Informazioni dettagliate sul mod si trovano nel file del mod (Markets and Futures - Mod Description) e su https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></it>
+        <pl><![CDATA[Przejmuje kontrolę nad wszystkimi cenami sprzedaży w grze i pozwala zablokować ceny za pomocą kontraktów.
+
+- Ceny zmieniają się co godzinę i reagują na losowe zdarzenia NADWYŻKI (spadek ceny) i POPYTU (skok ceny) dla każdej uprawy i produktu. Powiązane uprawy poruszają się razem.
+- Zdarzenia trwają od 3 do 14 miesięcy gry. Wszystko liczone jest w miesiącach, więc rynek zachowuje się tak samo przy dowolnym ustawieniu liczby dni w miesiącu.
+- Kontrakty: wybierz towar, ilość (1 000 - 500 000 L) i czas trwania w miesiącach gry (1 - 120). Zablokowana cena to cena stacji kontraktu, skorygowana o stawkę kontraktu towaru (od -25% do +25%) i opłatę kontraktową. Dostarcz towar do tej stacji przed terminem. Przekroczenie terminu lub wczesne anulowanie kosztuje karę, a wystarczające dostawy dają darmowe anulowanie.
+- Duże menu wygodne dla myszy: lista rynku z medianą ceny, średnią stacji i najlepszą stacją, lista stacji z odległościami, zdarzenia, historia, alerty cenowe i ustawienia.
+- Karta Blokuj stacje i automatyczna kontrola dostępu wykluczają bezużyteczne stacje z cen i kontraktów.
+- Obracający się HUD na ekranie, 13 motywów kolorystycznych, zaokrąglone panele i ikony towarów.
+- Pozycje HUD, alerty cenowe i ukryte magazynowane towary są zapisywane osobno dla każdego zapisu gry.
+- Działa w trybie jednoosobowym i wieloosobowym (host kontroluje ustawienia rynku).
+- Alerty cenowe śledzą najlepszą cenę stacji. Uruchomiony alert pokazuje pulsujący baner na HUD (z dźwiękiem, który można wyłączyć), dopóki go nie wyczyścisz lub cena nie przestanie spełniać warunku.
+- Przenoś towary między kategoriami i twórz do 3 własnych kategorii, zapisywanych dla gracza i zapisu gry.
+
+Otwórz menu klawiszami LEWY CTRL + M (wszystkie klawisze zmienisz w Ustawienia > Sterowanie; wpisy „Rynki i Kontrakty terminowe”).
+
+Szczegółowe informacje o modzie znajdziesz w pliku moda (Markets and Futures - Mod Description) oraz pod adresem https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></pl>
+        <cz><![CDATA[Přebírá kontrolu nad všemi prodejními cenami ve hře a umožňuje zafixovat ceny pomocí smluv.
+
+- Ceny se mění po hodinách a reagují na náhodné události PŘEBYTKU (pokles ceny) a POPTÁVKY (skok ceny) u každé plodiny a produktu. Související plodiny se pohybují společně.
+- Události trvají 3 až 14 herních měsíců. Vše se počítá v měsících, takže se trh chová stejně při jakémkoli nastavení počtu dní v měsíci.
+- Smlouvy: vyberte položku, množství (1 000 - 500 000 L) a dobu v herních měsících (1 - 120). Zafixovaná cena je cena stanice smlouvy upravená o sazbu smlouvy dané položky (od -25 % do +25 %) a poplatek za smlouvu. Dodejte do této stanice před termínem. Zmeškání termínu nebo předčasné zrušení stojí pokutu a dostatek dodávek přináší bezplatné zrušení.
+- Velké menu vhodné pro myš: seznam trhu s mediánem ceny, průměrem stanic a nejlepší stanicí, seznam stanic se vzdálenostmi, události, historie, cenová upozornění a nastavení.
+- Karta Blokovat stanice a automatická kontrola přístupu vyloučí nepoužitelné stanice z cen a smluv.
+- Rotující HUD na obrazovce, 13 barevných motivů, zaoblené panely a ikony položek.
+- Položky HUD, cenová upozornění a skryté uskladněné položky se ukládají zvlášť pro každou uloženou hru.
+- Funguje v režimu jednoho i více hráčů (host řídí nastavení trhu).
+- Cenové alarmy sledují nejlepší cenu stanice. Spuštěný alarm zobrazí na HUD pulzující banner (se zvukem, který lze vypnout), dokud jej nesmažete nebo cena přestane splňovat podmínku.
+- Přesouvejte položky mezi kategoriemi a vytvořte až 3 vlastní kategorie, ukládané pro hráče a uloženou hru.
+
+Menu otevřete LEVÝM CTRL + M (všechny klávesy lze změnit v Nastavení > Ovládání; položky „Trhy a Futures“).
+
+Podrobné informace o modu najdete v souboru modu (Markets and Futures - Mod Description) a na adrese https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></cz>
+        <ru><![CDATA[Берёт под контроль все цены продажи в игре и позволяет фиксировать цены с помощью контрактов.
+
+- Цены меняются каждый час и реагируют на случайные события ИЗБЫТКА (падение цены) и СПРОСА (скачок цены) для каждой культуры и продукта. Связанные культуры движутся вместе.
+- События длятся от 3 до 14 игровых месяцев. Всё считается в месяцах, поэтому рынок ведёт себя одинаково при любом числе дней в месяце.
+- Контракты: выберите товар, количество (1 000 - 500 000 л) и срок в игровых месяцах (1 - 120). Фиксированная цена — это цена станции контракта, скорректированная ставкой контракта товара (от -25% до +25%) и комиссией за контракт. Доставьте товар на эту станцию до окончания срока. За просрочку или раннюю отмену взимается штраф, а достаточное количество поставок даёт бесплатную отмену.
+- Большое меню, удобное для мыши: список рынка с медианной ценой, средним по станциям и лучшей станцией, список станций с расстояниями, события, история, ценовые оповещения и настройки.
+- Вкладка «Блок станций» и автоматическая проверка доступа исключают непригодные станции из цен и контрактов.
+- Вращающийся HUD на экране, 13 цветовых тем, скруглённые панели и значки товаров.
+- Товары на HUD, ценовые оповещения и скрытые товары на складе сохраняются отдельно для каждого сохранения.
+- Работает в одиночной и сетевой игре (хост управляет настройками рынка).
+- Ценовые сигналы следят за лучшей ценой станции. Сработавший сигнал показывает пульсирующий баннер на HUD (со звуком, который можно отключить), пока вы его не сбросите или цена не перестанет удовлетворять условию.
+- Перемещайте товары между категориями и создавайте до 3 своих категорий; они сохраняются для каждого игрока и сохранения.
+
+Откройте меню клавишами ЛЕВЫЙ CTRL + M (все клавиши меняются в Настройки > Управление; записи «Рынки и Фьючерсы»).
+
+Подробную информацию о моде можно найти в файле мода (Markets and Futures - Mod Description) и по адресу https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></ru>
+        <br><![CDATA[Assume o controle de todos os preços de venda do jogo e permite travar preços com contratos.
+
+- Os preços variam hora a hora e reagem a eventos aleatórios de EXCEDENTE (queda) e DEMANDA (alta) para cada cultura e produto. Culturas relacionadas se movem juntas.
+- Os eventos duram de 3 a 14 meses de jogo. Tudo é contado em meses, então o mercado se comporta da mesma forma com qualquer configuração de dias por mês.
+- Contratos: escolha um item, uma quantidade (1.000 - 500.000 L) e uma duração em meses de jogo (1 - 120). O preço travado é o da estação do contrato, ajustado pela taxa de contrato do item (-25% a +25%) e por uma taxa de contrato. Entregue nessa estação antes do prazo. Perder o prazo ou cancelar antes custa uma multa, e entregar o suficiente dá um cancelamento grátis.
+- Um menu grande e prático com o mouse: lista de mercado com preço mediano, média das estações e melhor estação, lista de estações com distâncias, eventos, histórico, alertas de preço e configurações.
+- A aba Bloquear estações e uma verificação de acesso automática excluem estações inutilizáveis dos preços e contratos.
+- HUD rotativo na tela, 13 temas de cores, painéis arredondados e ícones de itens.
+- Os itens do HUD, os alertas de preço e os itens armazenados ocultos são salvos separadamente para cada jogo salvo.
+- Funciona em um jogador e multijogador (o anfitrião controla as configurações do mercado).
+- Os alertas de preço acompanham o melhor preço de estação. Um alerta disparado mostra um banner pulsante no HUD (com um som que pode ser desligado) até você limpá-lo ou o preço deixar de atender à condição.
+- Mova itens entre categorias e crie até 3 categorias próprias, salvas por jogador e por jogo salvo.
+
+Abra o menu com CTRL ESQUERDO + M (todas as teclas podem ser alteradas em Configurações > Controles; entradas «Mercados e Futuros»).
+
+Informações detalhadas sobre o mod estão no arquivo do mod (Markets and Futures - Mod Description) e em https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></br>
+        <nl><![CDATA[Neemt de controle over alle verkoopprijzen in het spel en laat je prijzen vastleggen met contracten.
+
+- Prijzen schommelen uur na uur en reageren op willekeurige OVERSCHOT- (prijsdaling) en VRAAG-gebeurtenissen (prijsstijging) voor elk gewas en product. Verwante gewassen bewegen samen.
+- Gebeurtenissen duren 3 tot 14 spelmaanden. Alles wordt in maanden geteld, dus de markt gedraagt zich hetzelfde bij elke instelling van dagen per maand.
+- Contracten: kies een artikel, een hoeveelheid (1.000 - 500.000 L) en een looptijd in spelmaanden (1 - 120). De vaste prijs is de prijs van het contractstation, aangepast met het contracttarief van het artikel (-25% tot +25%) en een contractvergoeding. Lever vóór de deadline bij dat station. Een gemiste deadline of vroeg annuleren kost een boete, en genoeg leveringen leveren een gratis annulering op.
+- Een groot, muisvriendelijk menu: marktlijst met mediaanprijs, stationsgemiddelde en beste station, stationslijst met afstanden, gebeurtenissen, geschiedenis, prijsmeldingen en instellingen.
+- Het tabblad Stations blokkeren en een automatische toegangscontrole houden onbruikbare stations buiten prijzen en contracten.
+- Roterende HUD op het scherm, 13 kleurenthema's, afgeronde panelen en artikelpictogrammen.
+- HUD-items, prijsmeldingen en verborgen opgeslagen items worden voor elke savegame apart opgeslagen.
+- Werkt in singleplayer en multiplayer (de host beheert de marktinstellingen).
+- Prijsalarmen volgen de beste stationsprijs. Een afgegaan alarm toont een pulserende banner op de HUD (met een geluid dat je kunt uitzetten) tot je het wist of de prijs er niet meer aan voldoet.
+- Verplaats artikelen tussen categorieën en maak tot 3 eigen categorieën, opgeslagen per speler en per savegame.
+
+Open het menu met LINKER CTRL + M (alle toetsen zijn te wijzigen onder Instellingen > Besturing; vermeldingen «Markten en Futures»).
+
+Uitgebreide informatie over de mod vind je in het modbestand (Markets and Futures - Mod Description) en op https://github.com/jhome16/FS25_MarketsAndFutures/tree/main]]></nl>
+        <tr><![CDATA[Oyundaki tüm satış fiyatlarının kontrolünü alır ve sözleşmelerle fiyat sabitlemenizi sağlar.
+
+- Fiyatlar saat saat değişir ve her ürün için rastgele FAZLA (fiyat düşüşü) ve TALEP (fiyat artışı) olaylarına tepki verir. İlişkili ürünler birlikte hareket eder.
+- Olaylar 3 ila 14 oyun ayı sürer. Her şey ay olarak sayılır, bu yüzden pazar ay başına gün ayarı ne olursa olsun aynı davranır.
+- Sözleşmeler: bir ürün, miktar (1.000 - 500.000 L) ve oyun ayı cinsinden süre (1 - 120) seçin. Sabit fiyat, sözleşme istasyonunun fiyatıdır; ürünün sözleşme oranı (%-25 ile %+25) ve sözleşme ücretiyle düzeltilir. Süre dolmadan o istasyona teslim edin. Süreyi kaçırmak veya erken iptal etmek ceza getirir, yeterli teslimat ise ücretsiz iptal hakkı kazandırır.
+- Fareyle rahat kullanılan geniş bir menü: medyan fiyat, istasyon ortalaması ve en iyi istasyon sütunlarıyla piyasa listesi, mesafeli istasyon listesi, olaylar, geçmiş, fiyat uyarıları ve ayarlar.
+- İstasyon engelle sekmesi ve otomatik erişim kontrolü, kullanılamayan istasyonları fiyat ve sözleşmelerin dışında tutar.
+- Ekranda dönen HUD, 13 renk teması, yuvarlatılmış paneller ve ürün simgeleri.
+- HUD öğeleri, fiyat uyarıları ve gizlenen depolanmış öğeler her kayıt için ayrı saklanır.
+- Tek oyunculu ve çok oyunculu modda çalışır (piyasa ayarlarını sunucu sahibi yönetir).
+- Fiyat uyarıları en iyi istasyon fiyatını izler. Tetiklenen bir uyarı, siz temizleyene veya fiyat koşulu karşılamayana kadar HUD üzerinde yanıp sönen bir banner gösterir (kapatılabilir bir sesle).
+- Öğeleri kategoriler arasında taşıyın ve en fazla 3 kendi kategorinizi oluşturun; oyuncu ve kayıt başına saklanır.
+
+Menüyü SOL CTRL + M ile açın (tüm tuşlar Ayarlar > Kontroller bölümünden değiştirilebilir; «Piyasalar ve Vadeli İşlemler» girdileri).
+
+Modla ilgili ayrıntılı bilgiye mod dosyasında (Markets and Futures - Mod Description) ve https://github.com/jhome16/FS25_MarketsAndFutures/tree/main adresinde ulaşabilirsiniz]]></tr>
+    </description>
+    <iconFilename>icon_MarketsAndFutures.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/MarketsAndFutures.lua"/>
+        <sourceFile filename="scripts/MarketsAndFuturesEvents.lua"/>
+        <sourceFile filename="scripts/MarketsAndFuturesTheme.lua"/>
+        <sourceFile filename="scripts/MarketsAndFuturesMenu.lua"/>
+        <sourceFile filename="scripts/MarketsAndFuturesTabs.lua"/>
+        <sourceFile filename="scripts/MarketsAndFuturesHud.lua"/>
+    </extraSourceFiles>
+    <actions>
+        <action name="MF_TOGGLE_MENU" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_UP" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_DOWN" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_LEFT" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_RIGHT" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_DAYS_DOWN" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_DAYS_UP" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_PAGE_UP" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_PAGE_DOWN" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_FAST" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_SORT" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_CONFIRM" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_NEXT_TAB" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_CANCEL" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_FREE_CANCEL" category="ONFOOT VEHICLE" axisType="HALF"/>
+        <action name="MF_CLOSE" category="ONFOOT VEHICLE" axisType="HALF"/>
+    </actions>
+    <inputBinding>
+        <actionBinding action="MF_TOGGLE_MENU">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_m"/>
+        </actionBinding>
+        <actionBinding action="MF_UP">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_up"/>
+        </actionBinding>
+        <actionBinding action="MF_DOWN">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_down"/>
+        </actionBinding>
+        <actionBinding action="MF_LEFT">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_left"/>
+        </actionBinding>
+        <actionBinding action="MF_RIGHT">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_right"/>
+        </actionBinding>
+        <actionBinding action="MF_DAYS_DOWN">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_q"/>
+        </actionBinding>
+        <actionBinding action="MF_DAYS_UP">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_e"/>
+        </actionBinding>
+        <actionBinding action="MF_PAGE_UP">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_pageup"/>
+        </actionBinding>
+        <actionBinding action="MF_PAGE_DOWN">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_pagedown"/>
+        </actionBinding>
+        <actionBinding action="MF_FAST">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift"/>
+            <binding device="GAMEPAD_DEFAULT" input="BUTTON_5"/>
+        </actionBinding>
+        <actionBinding action="MF_SORT">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_s"/>
+            <binding device="GAMEPAD_DEFAULT" input="BUTTON_4"/>
+        </actionBinding>
+        <actionBinding action="MF_CONFIRM">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_return"/>
+            <binding device="GAMEPAD_DEFAULT" input="BUTTON_1"/>
+        </actionBinding>
+        <actionBinding action="MF_NEXT_TAB">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_tab"/>
+            <binding device="GAMEPAD_DEFAULT" input="BUTTON_3"/>
+        </actionBinding>
+        <actionBinding action="MF_CANCEL">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_delete"/>
+            <binding device="GAMEPAD_DEFAULT" input="BUTTON_6"/>
+        </actionBinding>
+        <actionBinding action="MF_FREE_CANCEL">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_f"/>
+        </actionBinding>
+        <actionBinding action="MF_CLOSE">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_esc"/>
+            <binding device="GAMEPAD_DEFAULT" input="BUTTON_2"/>
+        </actionBinding>
+    </inputBinding>
+    <l10n filenamePrefix="translations/translation"/>
+</modDesc>

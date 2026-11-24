@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="mf_title" text="Рынки и Фьючерсы"/>
+        <text name="mf_tab_market" text="Рынок"/>
+        <text name="mf_tab_contracts" text="Мои контракты"/>
+        <text name="mf_col_item" text="Товар"/>
+        <text name="mf_col_price" text="Цена / 1000 л"/>
+        <text name="mf_col_change" text="к ср."/>
+        <text name="mf_col_avg" text="Ср."/>
+        <text name="mf_surplus" text="Избыток"/>
+        <text name="mf_demand" text="Спрос"/>
+        <text name="mf_base" text="Медианная цена"/>
+        <text name="mf_vs_median" text="К медиане"/>
+        <text name="mf_best_vs_median" text="Лучшая станция к медиане"/>
+        <text name="mf_current" text="Рыночная цена"/>
+        <text name="mf_today" text="Изменение со вчера"/>
+        <text name="mf_events" text="События рынка"/>
+        <text name="mf_none" text="Нет"/>
+        <text name="mf_new_contract" text="Новый контракт"/>
+        <text name="mf_amount" text="Количество"/>
+        <text name="mf_duration" text="Срок"/>
+        <text name="mf_days" text="дн."/>
+        <text name="mf_months" text="мес."/>
+        <text name="mf_month" text="мес."/>
+        <text name="mf_set_maxmonths" text="Макс. срок контракта"/>
+        <text name="mf_locked" text="Фиксир. цена / 1000 л"/>
+        <text name="mf_stn_now" text="Текущая цена станции контракта"/>
+        <text name="mf_locked_vs_avg" text="Фикс. цена к медиане"/>
+        <text name="mf_discount" text="Комиссия за контракт"/>
+        <text name="mf_total" text="Макс. сумма контракта"/>
+        <text name="mf_help_market" text="[Клик] Выбрать / кнопки   [Колесо] Прокрутка   [Вверх/Вниз] Товар   [Влево/Вправо] Количество   [Q/E] Месяцы   [S] Сортировка   [Enter] Подписать   [Tab] След. вкладка   [Esc] Закрыть"/>
+        <text name="mf_help_contracts" text="[Клик] Выбрать / Отменить   [Вверх/Вниз] Выбрать   [Delete] Отменить контракт   [Tab] След. вкладка   [Esc] Закрыть"/>
+        <text name="mf_no_contracts" text="У вас нет активных контрактов."/>
+        <text name="mf_remaining" text="Осталось"/>
+        <text name="mf_months_left" text="Осталось мес."/>
+        <text name="mf_days_left" text="Дней осталось"/>
+        <text name="mf_vs_market" text="к рынку"/>
+        <text name="mf_note_surplus" text="Избыток на рынке: цены на %s падают!"/>
+        <text name="mf_note_demand" text="Высокий спрос: цены на %s растут!"/>
+        <text name="mf_msg_signed" text="Контракт подписан."/>
+        <text name="mf_msg_sent" text="Запрос на контракт отправлен на сервер."/>
+        <text name="mf_msg_failed" text="Не удалось создать контракт (достигнут лимит или неверные данные)."/>
+        <text name="mf_msg_cancelled" text="Контракт отменён."/>
+        <text name="mf_sort" text="Сортировка:"/>
+        <text name="mf_sort_name_asc" text="Название А-Я"/>
+        <text name="mf_sort_name_desc" text="Название Я-А"/>
+        <text name="mf_sort_high" text="Наибольшая к ср."/>
+        <text name="mf_sort_low" text="Наименьшая к ср."/>
+        <text name="mf_sign_btn" text="Подписать контракт"/>
+        <text name="mf_cancel_btn" text="Отменить"/>
+        <text name="mf_help_events" text="[Клик] Перейти к товару на Рынке   [Колесо / Вверх/Вниз] Прокрутка   [Tab] След. вкладка   [Esc] Закрыть"/>
+        <text name="mf_tab_events" text="Все события"/>
+        <text name="mf_filter_all" text="Все"/>
+        <text name="mf_filter_surplus" text="Избыток"/>
+        <text name="mf_filter_demand" text="Спрос"/>
+        <text name="mf_hd_price1" text="Цена"/>
+        <text name="mf_hd_price2" text="Медиана"/>
+        <text name="mf_hd_vs1" text="к"/>
+        <text name="mf_hd_vs2" text="медиане"/>
+        <text name="mf_hd_stn1" text="Станция"/>
+        <text name="mf_hd_stn2" text="Среднее"/>
+        <text name="mf_hd_best1" text="Лучшая"/>
+        <text name="mf_hd_best2" text="станция"/>
+        <text name="mf_hd_bvm1" text="Лучшая станция"/>
+        <text name="mf_hd_bvm2" text="к медиане"/>
+        <text name="mf_hd_cvb1" text="Контракт к"/>
+        <text name="mf_hd_cvb2" text="лучшей станции"/>
+        <text name="mf_col_market" text="Рынок"/>
+        <text name="mf_col_stnavg" text="Ср. пункт."/>
+        <text name="mf_col_best" text="Луч. пункт"/>
+        <text name="mf_col_station" text="Пункт"/>
+        <text name="mf_col_type" text="Тип"/>
+        <text name="mf_col_effect" text="Влияние на цену"/>
+        <text name="mf_stn_avg" text="Среднее по пунктам (%d)"/>
+        <text name="mf_stn_best" text="Лучшая цена пункта"/>
+        <text name="mf_contract_station" text="Пункт контракта"/>
+        <text name="mf_no_station" text="Нет доступных"/>
+        <text name="mf_events_count" text="Активных событий: %d"/>
+        <text name="mf_no_events" text="Нет активных рыночных событий."/>
+        <text name="mf_msg_nostation" text="Для этого товара нет доступного пункта продажи."/>
+        <text name="mf_cat_all" text="Все товары"/>
+        <text name="mf_cat_grain" text="Зерновые"/>
+        <text name="mf_cat_veg" text="Овощи"/>
+        <text name="mf_cat_root" text="Корнеплоды"/>
+        <text name="mf_cat_special" text="Особые культуры"/>
+        <text name="mf_cat_orchard" text="Виноградники и сады"/>
+        <text name="mf_cat_grass" text="Прочее / Луга"/>
+        <text name="mf_cat_other" text="Прочие товары, не указанные ниже"/>
+        <text name="mf_no_items" text="В этой категории нет товаров."/>
+        <text name="mf_graph_title" text="История цен (год)"/>
+        <text name="mf_graph_legend" text="Лучшая цена за месяц   яркий = этот год   тусклый = прошлый год"/>
+        <text name="mf_graph_now" text="Сред. за мес."/>
+        <text name="mf_graph_game_btn" text="Цена игры"/>
+        <text name="mf_graph_nodata" text="Данных пока нет"/>
+        <text name="mf_cat_stored" text="Товары на складе"/>
+        <text name="mf_stored" text="На складе"/>
+        <text name="input_MF_TOGGLE_MENU" text="Рынки и Фьючерсы: открыть / закрыть меню"/>
+        <text name="input_MF_UP" text="Меню Рынки и Фьючерсы: Вверх"/>
+        <text name="input_MF_DOWN" text="Меню Рынки и Фьючерсы: Вниз"/>
+        <text name="input_MF_LEFT" text="Меню Рынки и Фьючерсы: Уменьшить количество"/>
+        <text name="input_MF_RIGHT" text="Меню Рынки и Фьючерсы: Увеличить количество"/>
+        <text name="input_MF_DAYS_DOWN" text="Меню Рынки и Фьючерсы: Меньше месяцев контракта"/>
+        <text name="input_MF_DAYS_UP" text="Меню Рынки и Фьючерсы: Больше месяцев контракта"/>
+        <text name="input_MF_PAGE_UP" text="Меню Рынки и Фьючерсы: Страница вверх"/>
+        <text name="input_MF_PAGE_DOWN" text="Меню Рынки и Фьючерсы: Страница вниз"/>
+        <text name="input_MF_FAST" text="Меню Рынки и Фьючерсы: Удерживать для шагов x10"/>
+        <text name="input_MF_SORT" text="Меню Рынки и Фьючерсы: Сменить сортировку"/>
+        <text name="input_MF_CONFIRM" text="Меню Рынки и Фьючерсы: Подписать контракт"/>
+        <text name="input_MF_NEXT_TAB" text="Меню Рынки и Фьючерсы: Следующая вкладка"/>
+        <text name="input_MF_CANCEL" text="Меню Рынки и Фьючерсы: Отменить выбранный контракт"/>
+        <text name="input_MF_CLOSE" text="Меню Рынки и Фьючерсы: Закрыть"/>
+        <text name="mf_action_open" text="Рынки и Фьючерсы"/>
+        <text name="mf_h_mouse" text="Мышь: клик / колесо"/>
+        <text name="mf_h_item" text="Товар"/>
+        <text name="mf_h_select" text="Выбрать"/>
+        <text name="mf_h_scroll" text="Прокрутка"/>
+        <text name="mf_h_amount" text="Количество"/>
+        <text name="mf_h_days" text="Месяцы"/>
+        <text name="mf_h_fast" text="x10"/>
+        <text name="mf_h_sort" text="Сортировка"/>
+        <text name="mf_h_sign" text="Подписать"/>
+        <text name="mf_h_tab" text="След. вкладка"/>
+        <text name="mf_h_close" text="Закрыть"/>
+        <text name="mf_h_cancel" text="Отменить контракт"/>
+        <text name="mf_offer" text="Ставка контракта на товар"/>
+        <text name="mf_col_contract" text="Контракт"/>
+        <text name="mf_cooldown_btn" text="Недоступно (%s)"/>
+        <text name="mf_msg_cooldown" text="Контракт на этот товар только что подписан. Снова доступен через %s."/>
+        <text name="mf_col_fee" text="Штраф за отмену"/>
+        <text name="mf_penalty_info" text="Штрафы: %d%% непоставленной суммы при отмене; %d%% непоставленной суммы по истечении срока."/>
+        <text name="mf_confirm_btn" text="Подтвердить?"/>
+        <text name="mf_msg_confirm_cancel" text="Отмена обойдётся в %s. Нажмите «Отменить» ещё раз для подтверждения."/>
+        <text name="mf_note_pen_cancel" text="Контракт на %s отменён. Штраф: %s"/>
+        <text name="mf_note_pen_expired" text="Контракт на %s истёк невыполненным. Штраф: %s"/>
+        <text name="input_MF_FREE_CANCEL" text="Меню Рынки и Фьючерсы: Использовать бесплатную отмену"/>
+        <text name="mf_h_free" text="Бесплатная отмена"/>
+        <text name="mf_free_btn" text="Отмена бесплатно"/>
+        <text name="mf_free_ready" text="Доступна бесплатная отмена: отмените любой контракт без штрафа (или сохраните её)"/>
+        <text name="mf_free_progress" text="Прогресс бесплатной отмены: поставлено %s / %s"/>
+        <text name="mf_msg_free_confirm" text="Использовать бесплатную отмену для этого контракта? Нажмите ещё раз для подтверждения."/>
+        <text name="mf_msg_free_used" text="Бесплатная отмена использована. Без штрафа."/>
+        <text name="mf_msg_no_free" text="У вас нет доступной бесплатной отмены."/>
+        <text name="mf_note_progress" text="Контракт %s: поставлено %d%% (%s из %s л)"/>
+        <text name="mf_note_complete" text="Контракт %s выполнен! Поставлено все %s л."/>
+        <text name="mf_note_free_earned" text="Получена бесплатная отмена! Используйте её в «Моих контрактах»."/>
+        <text name="mf_note_free_used" text="Бесплатная отмена использована для контракта на %s. Без штрафа."/>
+        <text name="mf_tab_history" text="История"/>
+        <text name="mf_tab_alerts" text="Оповещения"/>
+        <text name="mf_tab_block" text="Блок станций"/>
+        <text name="mf_block_info" text="Заблокированные станции не учитываются в ценах, средних значениях и новых контрактах. Действующие контракты не меняются."/>
+        <text name="mf_block_station" text="Станция"/>
+        <text name="mf_block_accepts" text="Принимает"/>
+        <text name="mf_block_items" text="%d товаров"/>
+        <text name="mf_block_auto" text="Пропускать станции, куда моя ферма не может поставлять (автоматически)"/>
+        <text name="mf_block_noaccess" text="Нет доступа"/>
+        <text name="mf_list_stations" text="Список станций"/>
+        <text name="mf_popup_title" text="Станции"/>
+        <text name="mf_distance" text="Расстояние"/>
+        <text name="mf_tag_contract" text="Контракт"/>
+        <text name="mf_popup_none" text="Ни одна станция не принимает этот товар."/>
+        <text name="mf_block_blocked" text="Заблокирована"/>
+        <text name="mf_block_none" text="Пункты продажи не найдены."/>
+        <text name="mf_tab_settings" text="Настройки"/>
+        <text name="mf_hud_btn_on" text="HUD: Вкл"/>
+        <text name="mf_hud_btn_off" text="HUD: Выкл"/>
+        <text name="mf_hud_btn_move" text="Двигать HUD"/>
+        <text name="mf_theme_1" text="Лес"/>
+        <text name="mf_theme_2" text="Полночный синий"/>
+        <text name="mf_theme_3" text="Золото урожая"/>
+        <text name="mf_theme_4" text="Амбарный красный"/>
+        <text name="mf_theme_5" text="Сланец"/>
+        <text name="mf_theme_6" text="Уголь и оранжевый"/>
+        <text name="mf_theme_7" text="Закат"/>
+        <text name="mf_theme_8" text="Лаванда"/>
+        <text name="mf_theme_9" text="Бирюзовый"/>
+        <text name="mf_theme_10" text="Песок пустыни"/>
+        <text name="mf_theme_11" text="Арктика"/>
+        <text name="mf_theme_12" text="Высокий контраст"/>
+        <text name="mf_theme_13" text="Как в игре"/>
+        <text name="mf_badge_sur" text="ИЗБ"/>
+        <text name="mf_badge_dem" text="СПР"/>
+        <text name="mf_theme_same" text="Как меню"/>
+        <text name="mf_theme_auto" text="Авто"/>
+        <text name="mf_set_style" text="Оформление"/>
+        <text name="mf_set_menu_style" text="Стиль меню"/>
+        <text name="mf_set_hud_style" text="Стиль HUD"/>
+        <text name="mf_set_accent" text="Акцентный цвет"/>
+        <text name="mf_set_bright" text="Яркость"/>
+        <text name="mf_set_style_reset" text="Сбросить оформление"/>
+        <text name="mf_cat_label" text="Категория"/>
+        <text name="mf_cat_new" text="Новая"/>
+        <text name="mf_cat_type_hint" text="Введите имя, Enter = OK, Esc = отмена"/>
+        <text name="mf_cat_ok" text="OK"/>
+        <text name="mf_cat_cancel" text="Отмена"/>
+        <text name="mf_cat_pick_name" text="Выберите имя"/>
+        <text name="mf_cat_p1" text="Избранное"/>
+        <text name="mf_cat_p2" text="Продать первым"/>
+        <text name="mf_cat_p3" text="Придержать"/>
+        <text name="mf_cat_p4" text="Контракты"/>
+        <text name="mf_cat_p5" text="Корм"/>
+        <text name="mf_cat_p6" text="Навалом"/>
+        <text name="mf_cat_p7" text="Товарные культуры"/>
+        <text name="mf_cat_p8" text="Мои"/>
+        <text name="mf_cat_edit" text="Изменить"/>
+        <text name="mf_cat_reset_item" text="Сбросить"/>
+        <text name="mf_cat_rename" text="Переименовать"/>
+        <text name="mf_cat_prompt" text="Название категории"/>
+        <text name="mf_cat_default_name" text="Своя %d"/>
+        <text name="mf_cat_max" text="Можно создать до 3 своих категорий"/>
+        <text name="mf_cat_reset" text="Сбросить категории"/>
+        <text name="mf_cat_reset_confirm" text="Нажмите ещё раз, чтобы удалить свои категории и перемещённые товары"/>
+        <text name="mf_msg_cat_reset" text="Категории сброшены"/>
+        <text name="mf_hud_move_hint" text="Перетащите для перемещения, угол — для изменения размера. Esc = назад в меню."/>
+        <text name="mf_hud_move_back" text="Меню вернётся через %d с"/>
+        <text name="mf_al_trigger" text="Цена срабатывания"/>
+        <text name="mf_al_triggers_at" text="Срабатывает при"/>
+        <text name="mf_col_hud" text="HUD"/>
+        <text name="mf_linked_suffix" text=" (связь)"/>
+        <text name="mf_hud_empty" text="Отметьте товары в столбце HUD"/>
+        <text name="mf_hud_avg" text="Медиана"/>
+        <text name="mf_hud_best" text="Лучшая цена"/>
+        <text name="mf_hud_contract" text="Ставка контракта"/>
+        <text name="mf_hud_unit" text="за 1000 л"/>
+        <text name="mf_alert_up" text="Оповещение о цене: лучшая цена на %s выросла до %+.1f%% к медиане (%s)"/>
+        <text name="mf_alert_down" text="Оповещение о цене: лучшая цена на %s упала до %+.1f%% к медиане (%s)"/>
+        <text name="mf_col_result" text="Результат"/>
+        <text name="mf_col_delivered" text="Поставлено"/>
+        <text name="mf_col_penalty" text="Штраф"/>
+        <text name="mf_col_gain" text="К рынку"/>
+        <text name="mf_col_net" text="Итого"/>
+        <text name="mf_col_day" text="День"/>
+        <text name="mf_no_history" text="Завершённых контрактов пока нет."/>
+        <text name="mf_res_fulfilled" text="Выполнен"/>
+        <text name="mf_res_cancelled" text="Отменён"/>
+        <text name="mf_res_expired" text="Истёк"/>
+        <text name="mf_res_free" text="Беспл. отмена"/>
+        <text name="mf_hist_totals" text="Последние %d контрактов: к рынку %s   штрафы %s   итого %s"/>
+        <text name="mf_al_item" text="Товар"/>
+        <text name="mf_al_now" text="Лучшая цена сейчас"/>
+        <text name="mf_al_when" text="Уведомить, когда цена"/>
+        <text name="mf_al_rises" text="Вырастет до"/>
+        <text name="mf_al_falls" text="Упадёт до"/>
+        <text name="mf_al_threshold" text="Порог (к медиане)"/>
+        <text name="mf_al_add" text="Добавить оповещение"/>
+        <text name="mf_al_cond" text="Условие"/>
+        <text name="mf_al_status" text="Статус"/>
+        <text name="mf_al_none" text="Оповещений пока нет."/>
+        <text name="mf_al_status_trig" text="Сработало"/>
+        <text name="mf_al_status_wait" text="Ожидание"/>
+        <text name="mf_al_delete" text="Удалить"/>
+        <text name="mf_al_clear" text="Сбросить"/>
+        <text name="mf_hud_alert_title" text="ЦЕНОВОЙ СИГНАЛ"/>
+        <text name="mf_hud_alert_more" text="ещё +%d"/>
+        <text name="mf_set_alert_sound" text="Звук сигнала"/>
+        <text name="mf_al_cond_up" text="Вырастет до %s"/>
+        <text name="mf_al_cond_down" text="Упадёт до %s"/>
+        <text name="mf_msg_alert_limit" text="Достигнут лимит оповещений. Сначала удалите одно."/>
+        <text name="mf_msg_alert_added" text="Оповещение включено."/>
+        <text name="mf_msg_alert_added_met" text="Оповещение добавлено. Цена уже за порогом, поэтому оно сработает при следующем пересечении."/>
+        <text name="mf_set_market" text="Настройки рынка"/>
+        <text name="mf_set_hostonly" text="Только хост может менять настройки рынка."/>
+        <text name="mf_set_preset" text="Пресет сложности"/>
+        <text name="mf_preset_0" text="Свой"/>
+        <text name="mf_preset_1" text="Спокойный"/>
+        <text name="mf_preset_2" text="Обычный"/>
+        <text name="mf_preset_3" text="Нестабильный"/>
+        <text name="mf_set_chance" text="Шанс события в месяц"/>
+        <text name="mf_set_strength" text="Сила событий"/>
+        <text name="mf_set_drift" text="Дневной дрейф цен"/>
+        <text name="mf_set_links" text="Связанные рынки"/>
+        <text name="mf_on" text="Вкл"/>
+        <text name="mf_off" text="Выкл"/>
+        <text name="mf_set_link_strength" text="Сила связи"/>
+        <text name="mf_set_cancel" text="Штраф за отмену"/>
+        <text name="mf_set_expiry" text="Штраф за истечение срока"/>
+        <text name="mf_set_wait" text="Ожидание между контрактами"/>
+        <text name="mf_set_free" text="Порог бесплатной отмены"/>
+        <text name="mf_set_hud" text="Ваш HUD (только этот игрок)"/>
+        <text name="mf_tab_hud_show" text="Показывать HUD"/>
+        <text name="mf_set_hud_rotate" text="Секунд на товар"/>
+        <text name="mf_set_hud_opacity" text="Прозрачность HUD"/>
+        <text name="mf_set_hud_reset" text="Сбросить позицию HUD"/>
+        <text name="mf_msg_hud_reset" text="Позиция HUD сброшена."/>
+        <text name="mf_set_hud_help1" text="Отмечайте товары в столбце HUD на вкладке «Рынок»."/>
+        <text name="mf_set_hud_help2" text="Нажмите «Двигать HUD» в шапке меню: перетащите HUD для перемещения, его угол — для изменения размера (%)."/>
+        <text name="mf_col_alert" text="Оповещ."/>
+        <text name="mf_msg_alert_removed" text="Оповещение удалено."/>
+        <text name="mf_msg_alert_added_edit" text="Оповещение включено. Задайте условие ниже."/>
+        <text name="mf_al_active" text="Оповещение активно"/>
+        <text name="mf_al_hint_on" text="Уведомит, когда цена пересечёт порог. Снимите отметку, чтобы удалить."/>
+        <text name="mf_al_hint_off" text="Отметьте, чтобы включить оповещение для этого товара."/>
+        <text name="mf_set_hud_size" text="Размер HUD"/>
+        <text name="mf_base_note" text="цена в игре %s x сложность %.2f"/>
+        <text name="mf_base_note_nodiff" text="множитель сложности не найден (x1,00)"/>
+        <text name="mf_set_fee_amount" text="Комиссия: ставка за количество"/>
+        <text name="mf_set_fee_duration" text="Комиссия: ставка за срок"/>
+        <text name="mf_set_defaults" text="Сбросить на стандарт"/>
+        <text name="mf_msg_reset_confirm" text="Сбросить ВСЕ настройки рынка на стандартные? Нажмите ещё раз для подтверждения."/>
+        <text name="mf_msg_reset_done" text="Настройки рынка сброшены на стандартные."/>
+        <text name="mf_cat_stored_all" text="Товары на складе - Полный список"/>
+        <text name="mf_stored_hide_hint" text="Отметьте столбец корзины, чтобы скрыть товар из «Товары на складе»."/>
+    </texts>
+</l10n>

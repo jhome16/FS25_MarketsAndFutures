@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="mf_title" text="Markten en Futures"/>
+        <text name="mf_tab_market" text="Markt"/>
+        <text name="mf_tab_contracts" text="Mijn contracten"/>
+        <text name="mf_col_item" text="Artikel"/>
+        <text name="mf_col_price" text="Prijs / 1.000 L"/>
+        <text name="mf_col_change" text="t.o.v. gem."/>
+        <text name="mf_col_avg" text="Gem."/>
+        <text name="mf_surplus" text="Overschot"/>
+        <text name="mf_demand" text="Vraag"/>
+        <text name="mf_base" text="Mediaanprijs"/>
+        <text name="mf_vs_median" text="vs. mediaan"/>
+        <text name="mf_best_vs_median" text="Beste station vs. mediaan"/>
+        <text name="mf_current" text="Marktprijs"/>
+        <text name="mf_today" text="Verandering sinds gisteren"/>
+        <text name="mf_events" text="Marktgebeurtenissen"/>
+        <text name="mf_none" text="Geen"/>
+        <text name="mf_new_contract" text="Nieuw contract"/>
+        <text name="mf_amount" text="Hoeveelheid"/>
+        <text name="mf_duration" text="Looptijd"/>
+        <text name="mf_days" text="dagen"/>
+        <text name="mf_months" text="maanden"/>
+        <text name="mf_month" text="maand"/>
+        <text name="mf_set_maxmonths" text="Maximale contractduur"/>
+        <text name="mf_locked" text="Vaste prijs / 1.000 L"/>
+        <text name="mf_stn_now" text="Huidige prijs contractstation"/>
+        <text name="mf_locked_vs_avg" text="Vaste prijs vs mediaan"/>
+        <text name="mf_discount" text="Contractkosten"/>
+        <text name="mf_total" text="Max. contractwaarde"/>
+        <text name="mf_help_market" text="[Klik] Selecteren / knoppen   [Wiel] Scrollen   [Omhoog/Omlaag] Artikel   [Links/Rechts] Hoeveelheid   [Q/E] Maanden   [S] Sorteren   [Enter] Tekenen   [Tab] Volgende tab   [Esc] Sluiten"/>
+        <text name="mf_help_contracts" text="[Klik] Selecteren / Annuleren   [Omhoog/Omlaag] Selecteren   [Delete] Contract annuleren   [Tab] Volgende tab   [Esc] Sluiten"/>
+        <text name="mf_no_contracts" text="Je hebt geen actieve contracten."/>
+        <text name="mf_remaining" text="Resterend"/>
+        <text name="mf_months_left" text="Maanden over"/>
+        <text name="mf_days_left" text="Dagen over"/>
+        <text name="mf_vs_market" text="t.o.v. markt"/>
+        <text name="mf_note_surplus" text="Marktoverschot: de prijzen van %s dalen!"/>
+        <text name="mf_note_demand" text="Hoge vraag: de prijzen van %s stijgen!"/>
+        <text name="mf_msg_signed" text="Contract getekend."/>
+        <text name="mf_msg_sent" text="Contractaanvraag naar de server gestuurd."/>
+        <text name="mf_msg_failed" text="Contract kon niet worden gemaakt (limiet bereikt of ongeldig)."/>
+        <text name="mf_msg_cancelled" text="Contract geannuleerd."/>
+        <text name="mf_sort" text="Sorteren:"/>
+        <text name="mf_sort_name_asc" text="Naam A-Z"/>
+        <text name="mf_sort_name_desc" text="Naam Z-A"/>
+        <text name="mf_sort_high" text="Hoogste t.o.v. gem."/>
+        <text name="mf_sort_low" text="Laagste t.o.v. gem."/>
+        <text name="mf_sign_btn" text="Contract tekenen"/>
+        <text name="mf_cancel_btn" text="Annuleren"/>
+        <text name="mf_help_events" text="[Klik] Naar artikel in Markt springen   [Wiel / Omhoog/Omlaag] Scrollen   [Tab] Volgende tab   [Esc] Sluiten"/>
+        <text name="mf_tab_events" text="Alle gebeurtenissen"/>
+        <text name="mf_filter_all" text="Alle"/>
+        <text name="mf_filter_surplus" text="Overschot"/>
+        <text name="mf_filter_demand" text="Vraag"/>
+        <text name="mf_hd_price1" text="Prijs"/>
+        <text name="mf_hd_price2" text="Mediaan"/>
+        <text name="mf_hd_vs1" text="vs."/>
+        <text name="mf_hd_vs2" text="Mediaan"/>
+        <text name="mf_hd_stn1" text="Station"/>
+        <text name="mf_hd_stn2" text="Gemiddelde"/>
+        <text name="mf_hd_best1" text="Beste"/>
+        <text name="mf_hd_best2" text="station"/>
+        <text name="mf_hd_bvm1" text="Beste station"/>
+        <text name="mf_hd_bvm2" text="vs. mediaan"/>
+        <text name="mf_hd_cvb1" text="Contract vs."/>
+        <text name="mf_hd_cvb2" text="Beste station"/>
+        <text name="mf_col_market" text="Markt"/>
+        <text name="mf_col_stnavg" text="Gem. stat."/>
+        <text name="mf_col_best" text="Beste stat."/>
+        <text name="mf_col_station" text="Station"/>
+        <text name="mf_col_type" text="Type"/>
+        <text name="mf_col_effect" text="Prijseffect"/>
+        <text name="mf_stn_avg" text="Stationsgemiddelde (%d)"/>
+        <text name="mf_stn_best" text="Beste stationsprijs"/>
+        <text name="mf_contract_station" text="Contractstation"/>
+        <text name="mf_no_station" text="Geen beschikbaar"/>
+        <text name="mf_events_count" text="%d actieve gebeurtenissen"/>
+        <text name="mf_no_events" text="Geen actieve marktgebeurtenissen."/>
+        <text name="mf_msg_nostation" text="Er is geen verkoopstation beschikbaar voor dit artikel."/>
+        <text name="mf_cat_all" text="Alle artikelen"/>
+        <text name="mf_cat_grain" text="Graangewassen"/>
+        <text name="mf_cat_veg" text="Groenten"/>
+        <text name="mf_cat_root" text="Wortelgewassen"/>
+        <text name="mf_cat_special" text="Speciale gewassen"/>
+        <text name="mf_cat_orchard" text="Wijngaarden &amp; boomgaarden"/>
+        <text name="mf_cat_grass" text="Overig / Grasland"/>
+        <text name="mf_cat_other" text="Overige artikelen die hieronder niet staan"/>
+        <text name="mf_no_items" text="Geen artikelen in deze categorie."/>
+        <text name="mf_graph_title" text="Prijsgeschiedenis (jaar)"/>
+        <text name="mf_graph_legend" text="Beste prijs per maand   helder = dit jaar   dof = vorig jaar"/>
+        <text name="mf_graph_now" text="Maandgem."/>
+        <text name="mf_graph_game_btn" text="Spelprijs"/>
+        <text name="mf_graph_nodata" text="Nog geen prijsgegevens"/>
+        <text name="mf_cat_stored" text="Opgeslagen artikelen"/>
+        <text name="mf_stored" text="In opslag"/>
+        <text name="input_MF_TOGGLE_MENU" text="Markten en Futures: menu openen / sluiten"/>
+        <text name="input_MF_UP" text="Menu Markten en Futures: Omhoog"/>
+        <text name="input_MF_DOWN" text="Menu Markten en Futures: Omlaag"/>
+        <text name="input_MF_LEFT" text="Menu Markten en Futures: Hoeveelheid verlagen"/>
+        <text name="input_MF_RIGHT" text="Menu Markten en Futures: Hoeveelheid verhogen"/>
+        <text name="input_MF_DAYS_DOWN" text="Menu Markten en Futures: Minder contractmaanden"/>
+        <text name="input_MF_DAYS_UP" text="Menu Markten en Futures: Meer contractmaanden"/>
+        <text name="input_MF_PAGE_UP" text="Menu Markten en Futures: Pagina omhoog"/>
+        <text name="input_MF_PAGE_DOWN" text="Menu Markten en Futures: Pagina omlaag"/>
+        <text name="input_MF_FAST" text="Menu Markten en Futures: Ingedrukt houden voor x10-stappen"/>
+        <text name="input_MF_SORT" text="Menu Markten en Futures: Sortering wisselen"/>
+        <text name="input_MF_CONFIRM" text="Menu Markten en Futures: Contract tekenen"/>
+        <text name="input_MF_NEXT_TAB" text="Menu Markten en Futures: Volgende tab"/>
+        <text name="input_MF_CANCEL" text="Menu Markten en Futures: Geselecteerd contract annuleren"/>
+        <text name="input_MF_CLOSE" text="Menu Markten en Futures: Sluiten"/>
+        <text name="mf_action_open" text="Markten en Futures"/>
+        <text name="mf_h_mouse" text="Muis: klik / wiel"/>
+        <text name="mf_h_item" text="Artikel"/>
+        <text name="mf_h_select" text="Selecteren"/>
+        <text name="mf_h_scroll" text="Scrollen"/>
+        <text name="mf_h_amount" text="Hoeveelheid"/>
+        <text name="mf_h_days" text="Maanden"/>
+        <text name="mf_h_fast" text="x10"/>
+        <text name="mf_h_sort" text="Sorteren"/>
+        <text name="mf_h_sign" text="Tekenen"/>
+        <text name="mf_h_tab" text="Volgende tab"/>
+        <text name="mf_h_close" text="Sluiten"/>
+        <text name="mf_h_cancel" text="Contract annuleren"/>
+        <text name="mf_offer" text="Contracttarief van artikel"/>
+        <text name="mf_col_contract" text="Contract"/>
+        <text name="mf_cooldown_btn" text="Niet beschikbaar (%s)"/>
+        <text name="mf_msg_cooldown" text="Er is zojuist een contract voor dit artikel getekend. Over %s weer beschikbaar."/>
+        <text name="mf_col_fee" text="Annuleringskosten"/>
+        <text name="mf_penalty_info" text="Boetes: %d%% van de niet-geleverde waarde bij annuleren; %d%% van de niet-geleverde waarde bij verlopen."/>
+        <text name="mf_confirm_btn" text="Bevestigen?"/>
+        <text name="mf_msg_confirm_cancel" text="Annuleren kost %s. Klik nogmaals op Annuleren om te bevestigen."/>
+        <text name="mf_note_pen_cancel" text="Contract voor %s geannuleerd. Boete: %s"/>
+        <text name="mf_note_pen_expired" text="Contract voor %s verlopen zonder levering. Boete: %s"/>
+        <text name="input_MF_FREE_CANCEL" text="Menu Markten en Futures: Gratis annulering gebruiken"/>
+        <text name="mf_h_free" text="Gratis annulering"/>
+        <text name="mf_free_btn" text="Gratis annuleren"/>
+        <text name="mf_free_ready" text="Gratis annulering beschikbaar: annuleer een willekeurig contract zonder boete (of bewaar hem)"/>
+        <text name="mf_free_progress" text="Voortgang gratis annulering: %s / %s geleverd"/>
+        <text name="mf_msg_free_confirm" text="Je gratis annulering voor dit contract gebruiken? Klik nogmaals om te bevestigen."/>
+        <text name="mf_msg_free_used" text="Gratis annulering gebruikt. Geen boete."/>
+        <text name="mf_msg_no_free" text="Je hebt geen gratis annulering beschikbaar."/>
+        <text name="mf_note_progress" text="Contract %s: %d%% geleverd (%s van %s L)"/>
+        <text name="mf_note_complete" text="Contract %s voltooid! Alle %s L geleverd."/>
+        <text name="mf_note_free_earned" text="Gratis annulering verdiend! Gebruik hem bij Mijn contracten."/>
+        <text name="mf_note_free_used" text="Gratis annulering gebruikt voor je contract van %s. Geen boete."/>
+        <text name="mf_tab_history" text="Geschiedenis"/>
+        <text name="mf_tab_alerts" text="Meldingen"/>
+        <text name="mf_tab_block" text="Stations blokkeren"/>
+        <text name="mf_block_info" text="Geblokkeerde stations worden genegeerd bij prijzen, gemiddelden en nieuwe contracten. Bestaande contracten blijven gelijk."/>
+        <text name="mf_block_station" text="Station"/>
+        <text name="mf_block_accepts" text="Accepteert"/>
+        <text name="mf_block_items" text="%d artikelen"/>
+        <text name="mf_block_auto" text="Stations overslaan waar mijn boerderij niet kan leveren (automatisch)"/>
+        <text name="mf_block_noaccess" text="Geen toegang"/>
+        <text name="mf_list_stations" text="Stations tonen"/>
+        <text name="mf_popup_title" text="Stations"/>
+        <text name="mf_distance" text="Afstand"/>
+        <text name="mf_tag_contract" text="Contract"/>
+        <text name="mf_popup_none" text="Geen enkel station accepteert dit artikel."/>
+        <text name="mf_block_blocked" text="Geblokkeerd"/>
+        <text name="mf_block_none" text="Geen verkoopstations gevonden."/>
+        <text name="mf_tab_settings" text="Instellingen"/>
+        <text name="mf_hud_btn_on" text="HUD: Aan"/>
+        <text name="mf_hud_btn_off" text="HUD: Uit"/>
+        <text name="mf_hud_btn_move" text="HUD verplaatsen"/>
+        <text name="mf_theme_1" text="Bos"/>
+        <text name="mf_theme_2" text="Middernachtblauw"/>
+        <text name="mf_theme_3" text="Oogstgoud"/>
+        <text name="mf_theme_4" text="Schuurrood"/>
+        <text name="mf_theme_5" text="Leisteen"/>
+        <text name="mf_theme_6" text="Antraciet &amp; oranje"/>
+        <text name="mf_theme_7" text="Zonsondergang"/>
+        <text name="mf_theme_8" text="Lavendel"/>
+        <text name="mf_theme_9" text="Blauwgroen"/>
+        <text name="mf_theme_10" text="Woestijnzand"/>
+        <text name="mf_theme_11" text="Arctisch"/>
+        <text name="mf_theme_12" text="Hoog contrast"/>
+        <text name="mf_theme_13" text="Spelstandaard"/>
+        <text name="mf_badge_sur" text="OVS"/>
+        <text name="mf_badge_dem" text="VRG"/>
+        <text name="mf_theme_same" text="Zelfde als menu"/>
+        <text name="mf_theme_auto" text="Auto"/>
+        <text name="mf_set_style" text="Uiterlijk"/>
+        <text name="mf_set_menu_style" text="Menustijl"/>
+        <text name="mf_set_hud_style" text="HUD-stijl"/>
+        <text name="mf_set_accent" text="Accentkleur"/>
+        <text name="mf_set_bright" text="Helderheid"/>
+        <text name="mf_set_style_reset" text="Uiterlijk resetten"/>
+        <text name="mf_cat_label" text="Categorie"/>
+        <text name="mf_cat_new" text="Nieuw"/>
+        <text name="mf_cat_type_hint" text="Typ een naam, Enter = OK, Esc = annuleren"/>
+        <text name="mf_cat_ok" text="OK"/>
+        <text name="mf_cat_cancel" text="Annuleren"/>
+        <text name="mf_cat_pick_name" text="Kies een naam"/>
+        <text name="mf_cat_p1" text="Favorieten"/>
+        <text name="mf_cat_p2" text="Eerst verkopen"/>
+        <text name="mf_cat_p3" text="Aanhouden"/>
+        <text name="mf_cat_p4" text="Contracten"/>
+        <text name="mf_cat_p5" text="Voer"/>
+        <text name="mf_cat_p6" text="Los gestort"/>
+        <text name="mf_cat_p7" text="Marktgewassen"/>
+        <text name="mf_cat_p8" text="Mijn"/>
+        <text name="mf_cat_edit" text="Wijzig"/>
+        <text name="mf_cat_reset_item" text="Herstel"/>
+        <text name="mf_cat_rename" text="Hernoemen"/>
+        <text name="mf_cat_prompt" text="Categorienaam"/>
+        <text name="mf_cat_default_name" text="Eigen %d"/>
+        <text name="mf_cat_max" text="Je kunt maximaal 3 eigen categorieën hebben"/>
+        <text name="mf_cat_reset" text="Categorieën herstellen"/>
+        <text name="mf_cat_reset_confirm" text="Klik nogmaals om je eigen categorieën en verplaatste artikelen te wissen"/>
+        <text name="mf_msg_cat_reset" text="Categorieën hersteld"/>
+        <text name="mf_hud_move_hint" text="Sleep om te verplaatsen, de hoek om het formaat te wijzigen. Esc = terug naar menu."/>
+        <text name="mf_hud_move_back" text="Menu komt terug over %d s"/>
+        <text name="mf_al_trigger" text="Triggerprijs"/>
+        <text name="mf_al_triggers_at" text="Wordt geactiveerd bij"/>
+        <text name="mf_col_hud" text="HUD"/>
+        <text name="mf_linked_suffix" text=" (gekoppeld)"/>
+        <text name="mf_hud_empty" text="Vink artikelen aan in de HUD-kolom"/>
+        <text name="mf_hud_avg" text="Mediaan"/>
+        <text name="mf_hud_best" text="Beste prijs"/>
+        <text name="mf_hud_contract" text="Contracttarief"/>
+        <text name="mf_hud_unit" text="per 1.000 L"/>
+        <text name="mf_alert_up" text="Prijsmelding: beste prijs voor %s is gestegen naar %+.1f%% t.o.v. mediaan (%s)"/>
+        <text name="mf_alert_down" text="Prijsmelding: beste prijs voor %s is gedaald naar %+.1f%% t.o.v. mediaan (%s)"/>
+        <text name="mf_col_result" text="Resultaat"/>
+        <text name="mf_col_delivered" text="Geleverd"/>
+        <text name="mf_col_penalty" text="Boete"/>
+        <text name="mf_col_gain" text="T.o.v. markt"/>
+        <text name="mf_col_net" text="Netto"/>
+        <text name="mf_col_day" text="Dag"/>
+        <text name="mf_no_history" text="Nog geen afgeronde contracten."/>
+        <text name="mf_res_fulfilled" text="Voltooid"/>
+        <text name="mf_res_cancelled" text="Geannuleerd"/>
+        <text name="mf_res_expired" text="Verlopen"/>
+        <text name="mf_res_free" text="Gratis annul."/>
+        <text name="mf_hist_totals" text="Laatste %d contracten: t.o.v. markt %s   boetes %s   netto %s"/>
+        <text name="mf_al_item" text="Artikel"/>
+        <text name="mf_al_now" text="Huidige beste prijs"/>
+        <text name="mf_al_when" text="Meld me wanneer de prijs"/>
+        <text name="mf_al_rises" text="Stijgt naar"/>
+        <text name="mf_al_falls" text="Daalt naar"/>
+        <text name="mf_al_threshold" text="Drempel (t.o.v. mediaan)"/>
+        <text name="mf_al_add" text="Melding toevoegen"/>
+        <text name="mf_al_cond" text="Voorwaarde"/>
+        <text name="mf_al_status" text="Status"/>
+        <text name="mf_al_none" text="Nog geen meldingen."/>
+        <text name="mf_al_status_trig" text="Geactiveerd"/>
+        <text name="mf_al_status_wait" text="Wacht"/>
+        <text name="mf_al_delete" text="Verwijderen"/>
+        <text name="mf_al_clear" text="Wissen"/>
+        <text name="mf_hud_alert_title" text="PRIJSALARM"/>
+        <text name="mf_hud_alert_more" text="+%d meer"/>
+        <text name="mf_set_alert_sound" text="Alarmgeluid"/>
+        <text name="mf_al_cond_up" text="Stijgt naar %s"/>
+        <text name="mf_al_cond_down" text="Daalt naar %s"/>
+        <text name="mf_msg_alert_limit" text="Meldingslimiet bereikt. Verwijder er eerst een."/>
+        <text name="mf_msg_alert_added" text="Melding ingeschakeld."/>
+        <text name="mf_msg_alert_added_met" text="Melding toegevoegd. De prijs zit al voorbij de drempel, dus hij gaat af bij de volgende kruising."/>
+        <text name="mf_set_market" text="Marktinstellingen"/>
+        <text name="mf_set_hostonly" text="Alleen de host kan de marktinstellingen wijzigen."/>
+        <text name="mf_set_preset" text="Moeilijkheidsvoorinstelling"/>
+        <text name="mf_preset_0" text="Aangepast"/>
+        <text name="mf_preset_1" text="Rustig"/>
+        <text name="mf_preset_2" text="Normaal"/>
+        <text name="mf_preset_3" text="Wisselvallig"/>
+        <text name="mf_set_chance" text="Kans op gebeurtenis per maand"/>
+        <text name="mf_set_strength" text="Sterkte van gebeurtenissen"/>
+        <text name="mf_set_drift" text="Dagelijkse prijsdrift"/>
+        <text name="mf_set_links" text="Gekoppelde markten"/>
+        <text name="mf_on" text="Aan"/>
+        <text name="mf_off" text="Uit"/>
+        <text name="mf_set_link_strength" text="Koppelingssterkte"/>
+        <text name="mf_set_cancel" text="Annuleringsboete"/>
+        <text name="mf_set_expiry" text="Verlopboete"/>
+        <text name="mf_set_wait" text="Wachttijd tussen contracten"/>
+        <text name="mf_set_free" text="Drempel gratis annulering"/>
+        <text name="mf_set_hud" text="Jouw HUD (alleen deze speler)"/>
+        <text name="mf_tab_hud_show" text="HUD tonen"/>
+        <text name="mf_set_hud_rotate" text="Seconden per artikel"/>
+        <text name="mf_set_hud_opacity" text="HUD-dekking"/>
+        <text name="mf_set_hud_reset" text="HUD-positie resetten"/>
+        <text name="mf_msg_hud_reset" text="HUD-positie gereset."/>
+        <text name="mf_set_hud_help1" text="Vink artikelen aan in de HUD-kolom op het tabblad Markt."/>
+        <text name="mf_set_hud_help2" text="Druk op HUD verplaatsen in de menukop: sleep de HUD om hem te verplaatsen en de hoek om het formaat te wijzigen (%)."/>
+        <text name="mf_col_alert" text="Melding"/>
+        <text name="mf_msg_alert_removed" text="Melding verwijderd."/>
+        <text name="mf_msg_alert_added_edit" text="Melding ingeschakeld. Stel hieronder de voorwaarde in."/>
+        <text name="mf_al_active" text="Melding actief"/>
+        <text name="mf_al_hint_on" text="Meldt je wanneer de prijs de drempel passeert. Uitvinken om te verwijderen."/>
+        <text name="mf_al_hint_off" text="Vink aan om een melding voor dit artikel in te schakelen."/>
+        <text name="mf_set_hud_size" text="HUD-grootte"/>
+        <text name="mf_base_note" text="spelprijs %s x moeilijkheid %.2f"/>
+        <text name="mf_base_note_nodiff" text="moeilijkheidsfactor niet gevonden (x1,00)"/>
+        <text name="mf_set_fee_amount" text="Contractkosten: tarief per hoeveelheid"/>
+        <text name="mf_set_fee_duration" text="Contractkosten: tarief per looptijd"/>
+        <text name="mf_set_defaults" text="Standaard herstellen"/>
+        <text name="mf_msg_reset_confirm" text="ALLE marktinstellingen terugzetten naar standaard? Klik nogmaals om te bevestigen."/>
+        <text name="mf_msg_reset_done" text="Marktinstellingen teruggezet naar standaard."/>
+        <text name="mf_cat_stored_all" text="Opgeslagen artikelen - Volledige lijst"/>
+        <text name="mf_stored_hide_hint" text="Vink de prullenbakkolom aan om een artikel te verbergen uit Opgeslagen artikelen."/>
+    </texts>
+</l10n>
