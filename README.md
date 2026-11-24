@@ -17,3 +17,18 @@ Takes control of every sell price in the game and lets you lock in prices with c
 Open the menu with LEFT CTRL + M (all keys can be changed in Settings > Controls; look for the "Markets and Futures" entries).
 
 Detailed mod information can be found in the mod file (Markets and Futures - Mod Description)
+
+<img width="1920" height="1080" alt="MF_MAIN" src="https://github.com/user-attachments/assets/60b81619-0e38-45f1-9818-9638ad1a83ba" />
+
+<img width="1920" height="1080" alt="MF_CONTRACTS" src="https://github.com/user-attachments/assets/11c9dac0-1305-4ab4-846e-475b46e6021c" />
+
+<img width="1920" height="1080" alt="MF_SETTINGS" src="https://github.com/user-attachments/assets/f3f0d9ef-c7b8-481f-9fcc-de0c34b5ac89" />
+
+<img width="1920" height="1080" alt="MF_BLOCKED" src="https://github.com/user-attachments/assets/4bddb594-c545-416a-98f5-030194ab2ad1" />
+
+<img width="1920" height="1080" alt="MF_LISTSTATIONS" src="https://github.com/user-attachments/assets/50eb7f84-e1c3-4b23-875a-99f330ba78ff" />
+
+<img width="1920" height="1080" alt="MF_ALERTS" src="https://github.com/user-attachments/assets/1edeef4c-18db-4344-a652-f7cdb417f06a" />
+
+
+
