@@ -18,6 +18,17 @@ Open the menu with LEFT CTRL + M (all keys can be changed in Settings > Controls
 
 Detailed mod information can be found in the mod file (Markets and Futures - Mod Description)
 
+## Download and install
+
+1. Open the [latest release](https://github.com/jhome16/FS25_MarketsAndFutures/releases/latest) and download **FS25_MarketsAndFutures.zip**.
+   Direct link: https://github.com/jhome16/FS25_MarketsAndFutures/releases/latest/download/FS25_MarketsAndFutures.zip
+2. Put the zip file, still zipped, into your mods folder:
+   - Windows: `Documents\My Games\FarmingSimulator2025\mods`
+   - Mac: `~/Library/Application Support/FarmingSimulator2025/mods`
+3. Start the game and enable **Markets and Futures** in your savegame's mod list.
+
+Do not use the green **Code > Download ZIP** button. That zip has the wrong layout and the game will not load it.
+
 <img width="1920" height="1080" alt="MF_MAIN" src="https://github.com/user-attachments/assets/60b81619-0e38-45f1-9818-9638ad1a83ba" />
 
 <img width="1920" height="1080" alt="MF_CONTRACTS" src="https://github.com/user-attachments/assets/11c9dac0-1305-4ab4-846e-475b46e6021c" />
