@@ -474,6 +474,12 @@ function MFHud:checkAlerts()
                 local msg = string.format(DM.t(a.dir > 0 and "mf_alert_up" or "mf_alert_down"),
                     ft and ft.title or a.name, now, money(nowPrice))
                 g_currentMission:addIngameNotification(FSBaseMission.INGAME_NOTIFICATION_INFO, msg)
+                -- Fast Forward Control (optional mod): stops a running fast-forward and restores the
+                -- previous game speed when its "Stop on Markets and Futures alerts" box is ticked
+                local ffc = g_currentMission.fastForwardControl
+                if ffc ~= nil then
+                    ffc:onExternalAlert("Markets and Futures", msg)
+                end
             elseif not cond then
                 a.fired = false
                 a.dismissed = false
